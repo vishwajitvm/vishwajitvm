@@ -8,7 +8,7 @@ Sharing my everyday life as full stack developer and as a photographer too. Alwa
 
 * 🌍  I'm based in New Delhi, INDIA
 * ✉️  You can contact me at [vishwajitmall50@gmail.com](mailto:vishwajitmall50@gmail.com)
-* 🚀  I'm currently working on [Hospital Management system](http://angelfertilityclinic.com//)
+* 🚀  I'm currently working on [Hospital Management system](http://angelfertilityclinic.com/)
 * 🧠  I'm learning ReactJS and Node JS
 * 🤝  I'm open to collaborating on Any Laravel based project
 
