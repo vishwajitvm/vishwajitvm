@@ -4,7 +4,7 @@ Hi 👋 My name is Vishwajit
 Full Stack Web Developer With 1 Year of Experience
 ------------------------
 
-Sharing my everyday life as full stack developer and as a photographer too. Always learning something new
+Sharing my everyday life learning new language like currently am learning Vuejs and Nuxtjs, alsong with MongoDB,and am hoping to work as Laravel developer with vuejs and nuxtjs developer.
 
 * 🌍  I'm based in New Delhi, INDIA
 * ✉️  You can contact me at [vishwajitmall50@gmail.com](mailto:vishwajitmall50@gmail.com)
