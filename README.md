@@ -59,4 +59,4 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
 
 <a href="https://www.buymeacoffee.com/vishwajitm7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
