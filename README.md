@@ -1,7 +1,7 @@
 Hi 👋 My name is Vishwajit
 ==========================
 
-Full Stack Web Developer With 1 Year of Experience
+Full Stack Web Developer With 1 Year of Experience <img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
 ------------------------
 
 Sharing my everyday life learning new language like currently am learning Vuejs and Nuxtjs, alsong with MongoDB,and am hoping to work as Laravel developer with vuejs and nuxtjs developer.
@@ -59,4 +59,3 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
 
 <a href="https://www.buymeacoffee.com/vishwajitm7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
