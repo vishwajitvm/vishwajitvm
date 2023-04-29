@@ -4,12 +4,12 @@ Hi 👋 My name is Vishwajit
 Full Stack Web Developer With 1 Year of Experience <img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
 ------------------------
 
-Sharing my everyday life learning new language like currently am learning Vuejs and Nuxtjs, alsong with MongoDB,and am hoping to work as Laravel developer with vuejs and nuxtjs developer.
+I am pleased to share that I am actively engaged in expanding my linguistic proficiency on a daily basis. At present, I am focused on learning the Node.js programming language, in conjunction with MongoDB. My ultimate aim is to secure a role as a Node.js developer and leverage this knowledge to develop robust and scalable applications..
 
 * 🌍  I'm based in New Delhi, INDIA
 * ✉️  You can contact me at [vishwajitmall50@gmail.com](mailto:vishwajitmall50@gmail.com)
-* 🚀  I'm currently working on [Hospital Management system](http://angelfertilityclinic.com/)
-* 🧠  I'm learning ReactJS and Node JS
+* 🚀  I'm currently working on [FIrmway SaaS platform to completely automate Balance Confirmation, MSME Confirmation and all kinds of Reconciliation including Customer/Vendor Reconciliation, 26AS Reconciliation, GST Reconciliation, Bank Reconciliation, and many more](https://firmway.in/)
+* 🧠  I'm learning ReactJS and NodeJS
 * 🤝  I'm open to collaborating on Any Laravel based project
 
 <a href="https://www.twitter.com/VishwajitVm" target="_blank" rel="noreferrer"><img
@@ -34,6 +34,7 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://spark.apache.org/docs/latest/rdd-programming-guide.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="Apche Rdd" /></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" width="36" height="36" alt="Apche Rdd" /></a>
+  <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="36" height="36" alt="Node JS" /></a>
 </p>
 
 
