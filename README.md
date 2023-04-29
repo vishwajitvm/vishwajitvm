@@ -8,7 +8,7 @@ I am pleased to share that I am actively engaged in expanding my linguistic prof
 
 * 🌍  I'm based in New Delhi, INDIA
 * ✉️  You can contact me at [vishwajitmall50@gmail.com](mailto:vishwajitmall50@gmail.com)
-* 🚀  I'm currently working on [FIrmway SaaS platform to completely automate Balance Confirmation, MSME Confirmation and all kinds of Reconciliation including Customer/Vendor Reconciliation, 26AS Reconciliation, GST Reconciliation, Bank Reconciliation, and many more](https://firmway.in/)
+* 🚀  I'm currently working on FIrmway SaaS platform to completely automate Balance Confirmation, MSME Confirmation and all kinds of Reconciliation including Customer/Vendor Reconciliation, 26AS Reconciliation, GST Reconciliation, Bank Reconciliation, and many more [FIRMWAY Software as a service](https://firmway.in/)
 * 🧠  I'm learning ReactJS and NodeJS
 * 🤝  I'm open to collaborating on Any Laravel based project
 
