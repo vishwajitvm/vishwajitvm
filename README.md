@@ -54,7 +54,8 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajitvm&layout=compact)
 
 
-<a target="_blank" href="https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/cfacca1932c3f6c63274bd03750a6120.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Recent Article 0">
+[![Recent Article](https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/cfacca1932c3f6c63274bd03750a6120.jpeg?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time)
+
 
 ### Support Me
 
