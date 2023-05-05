@@ -54,7 +54,7 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajitvm&layout=compact)
 
 
-[![Recent Article]([https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/cfacca1932c3f6c63274bd03750a6120.jpeg](https://cdn2.hubspot.net/hub/53/file-23115630-jpg/blog/images/blogging_image.jpg)?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time)
+[![Recent Article]([[https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/cfacca1932c3f6c63274bd03750a6120.jpeg](https://changeonelife.ua/user_uploads/images/b8b678591cd07aa045a062ab8f92f107.jpg)](https://changeonelife.ua/user_uploads/images/b8b678591cd07aa045a062ab8f92f107.jpg)?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time)
 
 
 ### Support Me
