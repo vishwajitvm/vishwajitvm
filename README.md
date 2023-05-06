@@ -36,9 +36,7 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" width="36" height="36" alt="Apche Rdd" /></a>
   <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="36" height="36" alt="Node JS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="36" height="36" alt="Node JS" /></a>
-  
   <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Node JS" /></a>
-  
   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo.svg" width="36" height="36" alt="SocketIo" /></a>
   
 </p>
