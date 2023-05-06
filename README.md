@@ -37,6 +37,8 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
   <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" width="36" height="36" alt="Node JS" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="36" height="36" alt="Node JS" /></a>
   
+  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Node JS" /></a>
+  
 </p>
 
 
