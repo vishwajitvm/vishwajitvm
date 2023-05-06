@@ -39,6 +39,8 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
   
   <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Node JS" /></a>
   
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://socket.io/images/logo.svg" width="36" height="36" alt="SocketIo" /></a>
+  
 </p>
 
 
