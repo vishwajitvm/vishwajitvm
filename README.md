@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="100" height="36" alt="Express JS" /></a>
   <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Pug JS" /></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg" width="100" height="36" alt="SocketIo" /></a>
-   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://s3-alpha.figma.com/hub/file/2815777610/f48aadd7-3fa2-4218-bebf-597021659f2b-cover.png" width="100" height="36" alt="SocketIo" /></a>
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="100" height="36" alt="AWS" /></a>
   
 </p>
 
