@@ -1,7 +1,7 @@
 Hi 👋 My name is Vishwajit
 ==========================
 
-Full Stack Web Developer With 1 Year of Experience <img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
+Full Stack Web Developer With 2 Year of Experience <img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
 ------------------------
 
 I am pleased to share that I am actively engaged in expanding my linguistic proficiency on a daily basis. At present, I am focused on learning the Node.js programming language, in conjunction with MongoDB. My ultimate aim is to secure a role as a Node.js developer and leverage this knowledge to develop robust and scalable applications..
