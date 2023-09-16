@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-t
   <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Pug JS" /></a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg" width="100" height="36" alt="SocketIo" /></a>
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="100" height="36" alt="AWS" /></a>
-  
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://graphql.org/img/logo.svg" width="100" height="36" alt="AWS" /></a>
 </p>
 
 
