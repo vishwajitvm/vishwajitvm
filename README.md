@@ -17,6 +17,11 @@ src="https://img.shields.io/twitter/follow/VishwajitVm?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/vishwajitvm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vishwajit-vm-179a61149" target="_blank" rel="noreferrer"> <img
+src="https://img.shields.io/badge/follow-vishwajitvm%20on%20linkdine-vishwajitvm"
+/> </a>
+
+
 ### Skills
 
 <p align="left">
