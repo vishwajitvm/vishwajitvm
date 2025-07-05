@@ -1,58 +1,102 @@
-Hi 👋 My name is Vishwajit
+Hi 👋 My name is Vishwajit VM
 ==========================
 
-Full Stack Web Developer With 2 Year of Experience <img  align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat"  />
+Full Stack Web Developer With 4 Years of Experience <img align="right" src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=0e75b6&style=flat" />
+
 ------------------------
 
-I am pleased to share that I am actively engaged in expanding my linguistic proficiency on a daily basis. At present, I am focused on learning the Node.js programming language, in conjunction with MongoDB. My ultimate aim is to secure a role as a Node.js developer and leverage this knowledge to develop robust and scalable applications..
+I’m an enthusiastic full-stack web developer passionate about building robust, scalable, and intelligent solutions. Over the last four years, I have continually expanded my skills, recently diving deep into **Generative AI**, **Python ecosystems**, and modern AI frameworks.
+
+Currently, I’m working at [Bee Logical](https://bee-logical.com/) — a Pune-based company, where I’ve been contributing for 3 years to various high-impact projects.
+
+---
 
 * 🌍  I'm based in New Delhi, INDIA
 * ✉️  You can contact me at [vishwajitmall50@gmail.com](mailto:vishwajitmall50@gmail.com)
-* 🚀  I'm currently working on FIrmway SaaS platform to completely automate Balance Confirmation, MSME Confirmation and all kinds of Reconciliation including Customer/Vendor Reconciliation, 26AS Reconciliation, GST Reconciliation, Bank Reconciliation, and many more [FIRMWAY Software as a service](https://firmway.in/)
-* 🧠  I'm learning ReactJS and NodeJS
-* 🤝  I'm open to collaborating on Any Laravel based project
+* 🧠  Currently learning: **Generative AI, Python, Numpy, Pandas, Matplotlib, LangChain, ASP.NET, Vector Databases, and more.**
+* 🤝  Open to collaborating on Laravel, Node.js, or AI-based projects.
+
+---
 
 <a href="https://www.twitter.com/VishwajitVm" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/VishwajitVm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/vishwajitvm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a> <a href="https://www.github.com/vishwajitvm" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/vishwajitvm?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" /></a>
 
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vishwajit-vm-179a61149" target="_blank" rel="noreferrer"> <img
-src="https://img.shields.io/badge/follow-vishwajitvm%20on%20linkdine-vishwajitvm"
-/> </a>
+---
 
+### 💻 Skills
 
-### Skills
+#### 🖥️ Frontend
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://spark.apache.org/docs/latest/rdd-programming-guide.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="36" height="36" alt="Apche Rdd" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" width="36" height="36" alt="Apche Rdd" /></a>
-  <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" width="100" height="36" alt="Node JS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" width="100" height="36" alt="Express JS" /></a>
-  <a href="https://pugjs.org/api/getting-started.html" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" width="36" height="36" alt="Pug JS" /></a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://ik.imagekit.io/ably/ghost/prod/2021/03/socket-io-logo-1.jpeg" width="100" height="36" alt="SocketIo" /></a>
-   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="100" height="36" alt="AWS" /></a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://graphql.org/img/logo.svg" width="100" height="36" alt="AWS" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+#### 💾 Backend & Databases
 
-### Socials
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-<p align="left"> <a href="https://www.codepen.io/vishwajitvm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.codesandbox.com/vishwajitmall50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/unknown683" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/vishwajitvm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Vishwajitvm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vishwa_collection" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/VishwajitVm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/wolverinevm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+#### 🧠 AI & Data
 
-### Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAWCAMAAADto9y1AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA5VBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+Cga9zAAAAQXRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAiIyQlJicoKSorLC0uLzAyMzc4Ozs+P0BEREZJSlNUVVdYWVpbXF1fYGJjZGdnAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+QHGQsjIWhnqM4AAAB1SURBVBjTY2CAAgUzMjAwEMM0CzAwMCABBCxgbWBjYGBiYQzQ3MzS1tLS0NbS0tDa0Nba2tLY2NjY1dXU19bV09bW1tfX19fW2NjZ2dlZWVmZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cAAAwYAHLMReFVW+wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDctMDVUMjE6Mzk6MDYrMDA6MDDuUtwaAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA3LTA1VDIxOjM5OjA2KzAwOjAwuco6UAAAAABJRU5ErkJggg==" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/VectorDB-0060A9?style=for-the-badge" />
+</p>
+
+#### 🎨 Others
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=pug&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://www.codepen.io/vishwajitvm" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+  <a href="https://www.codesandbox.com/vishwajitmall50" target="_blank"><img src="https://img.shields.io/badge/Codesandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+  <a href="https://www.facebook.com/unknown683" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.github.com/vishwajitvm" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://hashnode.com/@Vishwajitvm" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="http://www.instagram.com/codeclickcraftsman" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.twitter.com/VishwajitVm" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/wolverinevm" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+</p>
+
+---
+
+### 🏆 Badges
 
 <b>My GitHub Stats</b>
 
@@ -60,14 +104,20 @@ src="https://img.shields.io/badge/follow-vishwajitvm%20on%20linkdine-vishwajitvm
 
 <a href="http://www.github.com/vishwajitvm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajitvm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajitvm&layout=compact&bg_color=1c1917&title_color=0891b2&text_color=ffffff&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajitvm&layout=compact)
+---
 
+### ✍️ Latest Blog Posts
 
-[![Recent Article]([[https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/aQYgUYwnCsM/upload/cfacca1932c3f6c63274bd03750a6120.jpeg](https://changeonelife.ua/user_uploads/images/b8b678591cd07aa045a062ab8f92f107.jpg)](https://changeonelife.ua/user_uploads/images/b8b678591cd07aa045a062ab8f92f107.jpg)?w=400&h=210&fit=crop&crop=entropy&auto=compress,format&format=webp)](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time)
+- [Laravel Tips and Tricks: Become a Pro in No Time](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time)
+- [Improve Your Debugging Skills with Laravel Telescope](https://vishwajitvm.hashnode.dev/improve-your-debugging-skills-with-laravel-telescope)
+- [Getting Started with LangChain: A Beginner’s Guide](https://vishwajitvm.hashnode.dev/getting-started-with-langchain-a-beginners-guide)
+- [Build a Chatbot with Node.js and OpenAI API](https://vishwajitvm.hashnode.dev/build-a-chatbot-with-nodejs-and-openai-api)
+- [Integrate Razorpay Payment Gateway in Laravel](https://vishwajitvm.hashnode.dev/integrate-razorpay-payment-gateway-in-laravel)
 
+---
 
-### Support Me
+### ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/vishwajitm7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
