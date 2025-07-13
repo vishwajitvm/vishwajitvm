@@ -64,7 +64,10 @@ src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-t
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAWCAMAAADto9y1AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAA5VBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+Cga9zAAAAQXRSTlMAAQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyAiIyQlJicoKSorLC0uLzAyMzc4Ozs+P0BEREZJSlNUVVdYWVpbXF1fYGJjZGdnAAAAAWJLR0QAiAUdSAAAAAd0SU1FB+QHGQsjIWhnqM4AAAB1SURBVBjTY2CAAgUzMjAwEMM0CzAwMCABBCxgbWBjYGBiYQzQ3MzS1tLS0NbS0tDa0Nba2tLY2NjY1dXU19bV09bW1tfX19fW2NjZ2dlZWVmZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cAAAwYAHLMReFVW+wAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjUtMDctMDVUMjE6Mzk6MDYrMDA6MDDuUtwaAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI1LTA3LTA1VDIxOjM5OjA2KzAwOjAwuco6UAAAAABJRU5ErkJggg==" />
-  <img src="https://img.shields.io/badge/VectorDB-0060A9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pinecone-026cdf?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Weaviate-ff9900?style=for-the-badge" />
+
 </p>
 
 #### 🎨 Others
