@@ -100,9 +100,21 @@ src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-t
 
 <b>My GitHub Stats</b>
 
+
+
+
 <a href="http://www.github.com/vishwajitvm"><img src="https://github-readme-stats.vercel.app/api?username=vishwajitvm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vishwajitvm's GitHub stats" /></a>
 
 <a href="http://www.github.com/vishwajitvm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajitvm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### 🚀 Recent Focus
+
+- 🟢 Python (AI & Data)
+- 🔴 Laravel & PHP (web backend)
+- 🟡 Node.js (APIs and bots)
+- 🔵 React & Angular (frontend dashboards)
+- 🟣 ASP.NET (new learning & experiments)
+
 
 
 ---
