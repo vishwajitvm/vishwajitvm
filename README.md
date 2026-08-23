@@ -59,56 +59,119 @@ Currently working on **LokTathya** and **Tallyko**, while continuing to build ex
 
 # 🚀 Currently Building
 
+<p align="center">
+  <i>Building practical systems at the intersection of backend engineering, AI, and real-world data.</i>
+</p>
+
 <table>
 <tr>
 
+<!-- ===================== LOKTATHYA ===================== -->
+
 <td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🇮🇳%20ACTIVE%20DEVELOPMENT-00C853?style=for-the-badge" />
+</p>
 
 <h2>🇮🇳 LokTathya</h2>
 
-<p><b>Civic Data & Grounded Intelligence Platform</b></p>
-
 <p>
-Building a platform focused on making Indian public and government information easier to access, search, understand, and work with using reliable data pipelines and grounded AI.
+  <b>Civic Data & Grounded Intelligence Platform</b>
 </p>
 
 <p>
-<b>Focus:</b><br>
-RAG · Civic AI · Data Pipelines · Verified Information · Search · Backend Systems
+  Building a platform focused on making Indian public and government information easier to access, search, understand, and work with through reliable data pipelines and grounded AI.
 </p>
 
-<a href="https://github.com/vishwajitvm/LokTathya">
-<img src="https://img.shields.io/badge/VIEW%20LOKTATHYA-0891B2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p><b>🎯 Current Focus</b></p>
+
+<p>
+  🔹 RAG & Grounded AI<br>
+  🔹 Civic Data & Information Retrieval<br>
+  🔹 Data Pipelines & Processing<br>
+  🔹 Verified Information<br>
+  🔹 Search & Discovery<br>
+  🔹 Scalable Backend Systems
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/vishwajitvm/LokTathya">
+    <img src="https://img.shields.io/badge/🔎%20Explore%20LokTathya-0891B2?style=for-the-badge" />
+  </a>
+</p>
 
 </td>
 
+<!-- ===================== TALLYKO ===================== -->
+
 <td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚙️%20ACTIVE%20DEVELOPMENT-00C853?style=for-the-badge" />
+</p>
 
 <h2>🧾 Tallyko</h2>
 
-<p><b>Multi-Vendor Restaurant & Retail POS</b></p>
-
 <p>
-A multi-vendor POS platform focused on scalable backend services, business workflows, integrations, and containerized infrastructure.
+  <b>Multi-Vendor Restaurant & Retail POS</b>
 </p>
 
 <p>
-<b>Stack:</b><br>
-FastAPI · PostgreSQL · Redis · Celery · MinIO · Docker · Traefik
+  Building a scalable POS platform for restaurant and retail businesses, covering business workflows, backend services, integrations, background processing, storage, and containerized infrastructure.
 </p>
 
-<a href="https://github.com/vishwajitvm/Tallyko">
-<img src="https://img.shields.io/badge/VIEW%20TALLYKO-0891B2?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p><b>🎯 Current Focus</b></p>
+
+<p>
+  🔹 Multi-Vendor Architecture<br>
+  🔹 Restaurant & Retail Workflows<br>
+  🔹 Order & Business Management<br>
+  🔹 Async Background Processing<br>
+  🔹 File & Object Storage<br>
+  🔹 Containerized Infrastructure
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishwajitvm/Tallyko">
+    <img src="https://img.shields.io/badge/🔎%20Explore%20Tallyko-0891B2?style=for-the-badge" />
+  </a>
+</p>
 
 </td>
 
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/●%20Building-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/●%20Learning-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/●%20Shipping-00C853?style=flat-square" />
+</p>
 
+---
 # 💼 Open to New Opportunities
 
 <p align="center">
