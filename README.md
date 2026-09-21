@@ -45,26 +45,19 @@
 
 </p>
 
----
-
-# 🧭 About Me
-
-I'm a **Full-Stack Developer with 4+ years of experience**, currently specializing in **Python backend engineering, AI systems, Generative AI, RAG, LLM applications, and scalable backend architecture**.
-
-My current focus is building production-ready systems using **Python, FastAPI, PostgreSQL, Redis, Celery, Docker, LangChain, LangGraph, and vector databases**.
-
-Currently working on **LokTathya** and **Tallyko**, while continuing to build expertise in AI-powered backend systems and intelligent applications.
-
----
-
-# 🚀 Currently Building
-
+🧭 About Me
+I'm a Full-Stack Developer with 4+ years of experience, currently specializing in Python backend engineering, AI systems, Generative AI, RAG, LLM applications, and scalable backend architecture.
+My current focus is building production-ready systems using Python, FastAPI, PostgreSQL, Redis, Celery, Docker, LangChain, LangGraph, and vector databases.
+Currently working on LokTathya and Tallyko, while continuing to build expertise in AI-powered backend systems and intelligent applications.
+🚀 Currently Building
 <p align="center">
   <i>Building practical systems at the intersection of backend engineering, AI, and real-world data.</i>
 </p>
 
 <table>
 <tr>
+
+
 
 <!-- ===================== LOKTATHYA ===================== -->
 
@@ -106,7 +99,6 @@ Currently working on **LokTathya** and **Tallyko**, while continuing to build ex
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
 </p>
 
-<br>
 
 <p align="center">
   <a href="https://github.com/vishwajitvm/LokTathya">
@@ -162,6 +154,60 @@ Currently working on **LokTathya** and **Tallyko**, while continuing to build ex
 
 </td>
 
+
+
+</tr>
+<tr>
+  <!-- ===================== REPOMIND ===================== -->
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20ACTIVE%20POC-6366F1?style=for-the-badge" />
+</p>
+
+<h2>🧠 RepoMind</h2>
+
+<p>
+  <b>AI Codebase Intelligence Platform</b>
+</p>
+
+<p>
+  Building an AI-powered platform that understands real-world repositories through code-aware indexing, RAG, GitHub MCP, LangGraph orchestration, multi-provider LLM routing, and source-level citations.
+</p>
+
+<p><b>🎯 Current Focus</b></p>
+
+<p>
+  🔹 Code-Aware Repository Indexing<br>
+  🔹 RAG & Semantic Code Search<br>
+  🔹 GitHub MCP Integration<br>
+  🔹 LangGraph Orchestration<br>
+  🔹 Multi-Provider LLM & Embedding Routing<br>
+  🔹 Execution Tracing & Observability
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/vishwajitvm/RepoMind">
+    <img src="https://img.shields.io/badge/🔎%20Explore%20RepoMind-6366F1?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+<tr>
 </tr>
 </table>
 
@@ -171,9 +217,7 @@ Currently working on **LokTathya** and **Tallyko**, while continuing to build ex
   <img src="https://img.shields.io/badge/●%20Shipping-00C853?style=flat-square" />
 </p>
 
----
-# 💼 Open to New Opportunities
-
+💼 Open to New Opportunities
 <p align="center">
 
 <img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-00C853?style=for-the-badge" />
@@ -181,14 +225,12 @@ Currently working on **LokTathya** and **Tallyko**, while continuing to build ex
 </p>
 
 Currently looking for opportunities in:
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend%20Engineering-0891B2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/AI%20Engineering-8B5CF6?style=for-the-badge" />
 
-<br>
 
 <img src="https://img.shields.io/badge/Generative%20AI-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG%20Engineer-005571?style=for-the-badge" />
@@ -197,8 +239,7 @@ Currently looking for opportunities in:
 
 </p>
 
-### 🌐 Portfolio
-
+🌐 Portfolio
 <p align="center">
 
 <a href="https://vishwajit-labs-web.vercel.app/">
@@ -209,30 +250,23 @@ src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%2
 
 </p>
 
----
+⚡ Quick Facts
+	
+🌍 Location	New Delhi, India
+💼 Experience	4+ Years
+🎯 Focus	Python Backend + AI Engineering
+🐍 Primary Language	Python
+⚡ Backend	FastAPI
+🧠 AI	RAG · LLMs · LangChain · LangGraph
+🗄️ Databases	PostgreSQL · MongoDB · MySQL · Redis
+🔎 Vector Databases	Qdrant · pgvector
+🐳 Infrastructure	Docker · AWS · Traefik · Celery · MinIO
+🚀 Current Projects	RepoMind · LokTathya · Tallyko
+💼 Availability	Open to Work
 
-# ⚡ Quick Facts
 
-| | |
-|---|---|
-| 🌍 Location | New Delhi, India |
-| 💼 Experience | 4+ Years |
-| 🎯 Focus | Python Backend + AI Engineering |
-| 🐍 Primary Language | Python |
-| ⚡ Backend | FastAPI |
-| 🧠 AI | RAG · LLMs · LangChain · LangGraph |
-| 🗄️ Databases | PostgreSQL · MongoDB · MySQL · Redis |
-| 🔎 Vector Databases | Qdrant · pgvector |
-| 🐳 Infrastructure | Docker · AWS · Traefik · Celery · MinIO |
-| 🚀 Current Projects | LokTathya · Tallyko |
-| 💼 Availability | Open to Work |
-
----
-
-# 🧰 Technical Skills
-
-## 🤖 AI / ML
-
+🧰 Technical Skills
+🤖 AI / ML
 <p align="left">
 
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
@@ -241,7 +275,6 @@ src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%2
 <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Vector%20Databases-005571?style=for-the-badge" />
 
-<br>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -249,50 +282,38 @@ src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%2
 
 </p>
 
----
-
-## 🧩 Languages
-
+🧩 Languages
 <p align="left">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-<br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </p>
 
----
-
-## 🔧 Backend & APIs
-
+🔧 Backend & APIs
 <p align="left">
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 
-<br>
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge" />
 
-<br>
 
 <img src="https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 
 </p>
 
----
-
-## 🔐 Authentication & Security
-
+🔐 Authentication & Security
 <p align="left">
 
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
@@ -301,26 +322,21 @@ src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%2
 
 </p>
 
----
-
-## 🎨 Frontend
-
+🎨 Frontend
 <p align="left">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 
-<br>
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 
 </p>
 
----
-
-## 🗄️ Databases
-
+🗄️ Databases
 <p align="left">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -328,24 +344,19 @@ src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%2
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 
-<br>
 
 <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge" />
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
 
 </p>
 
----
-
-## ☁️ DevOps & Infrastructure
-
+☁️ DevOps & Infrastructure
 <p align="left">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-<br>
 
 <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
 <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
@@ -353,28 +364,22 @@ src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%2
 
 </p>
 
----
-
-## 📊 Observability & Development
-
+📊 Observability & Development
 <p align="left">
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Loki-6366F1?style=for-the-badge" />
 
-<br>
 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </p>
 
----
-
-## 🎨 Design & Extras
-
+🎨 Design & Extras
 <p align="left">
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
