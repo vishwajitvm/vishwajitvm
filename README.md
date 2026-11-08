@@ -157,7 +157,7 @@ Built **Angle Fertility** (hospital management), **Aragma** (event management) a
 <sub><code>200 OK</code> &nbsp;live from GitHub</sub>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwajitvm&background=0E1420&border=1F2937&stroke=1F2937&ring=A78BFA&fire=F472B6&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=22D3EE&sideLabels=9CA3AF&dates=6B7280&border_radius=16" width="100%" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=vishwajitvm&background=0E1420&border=1F2937&stroke=1F2937&ring=A78BFA&fire=F472B6&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=22D3EE&sideLabels=9CA3AF&dates=6B7280&border_radius=16" width="62%" alt="GitHub contribution streak">
 </p>
 
 <details>
