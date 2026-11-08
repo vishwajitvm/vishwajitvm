@@ -9,9 +9,11 @@
   <a href="#contact" title="Jump to contact"><img src="img/nav-contact.svg" alt="Contact"></a>
 </p>
 
-<img src="img/pup-ball.svg" width="100%" alt="Byte the puppy playing with a ball" title="That's Byte 🐶 He wanders around this page doing his own thing.">
+<a href="#-play-with-byte" title="That's Byte 🐶 He wanders around this page doing his own thing. Click to play with him!"><img src="img/pup-ball.svg" width="100%" alt="Byte the puppy playing with a ball"></a>
 
-<p align="center"><sub>🐶 That's <b>Byte</b>. He roams this page doing his own thing. Want to play with him? Click below.</sub></p>
+### 🐶 Play with Byte
+
+<sub>That's <b>Byte</b>. He roams this page on his own random adventures. Click a button to play with him, or click him anywhere on the page to come back here.</sub>
 
 <details>
 <summary><b>🦴 Give Byte a treat</b></summary>
@@ -47,13 +49,13 @@
   <a href="https://www.buymeacoffee.com/vishwajitm7" title="Buy me a coffee ☕"><img src="img/social-coffee.svg" width="19%" alt="Buy Me a Coffee: vishwajitm7"></a>
 </p>
 
-<img src="img/pup-mail.svg" width="100%" alt="Byte the puppy delivering the mail" title="Byte is on mail duty today ✉️">
+<a href="#-play-with-byte" title="Byte is on mail duty today ✉️ Click to play with him!"><img src="img/pup-mail.svg" width="100%" alt="Byte the puppy delivering the mail"></a>
 
 ## What I can do for you
 
 <img src="img/services.svg" width="100%" alt="AI assistants and chatbots · Backends and APIs · AI automation and agents · Secure business platforms" title="AI assistants · Backends &amp; APIs · AI automation · Secure platforms">
 
-<img src="img/pup-laptop.svg" width="100%" alt="Byte the puppy shipping code on a laptop" title="Byte ships to production on Fridays 😅">
+<a href="#-play-with-byte" title="Byte ships to production on Fridays 😅 Click to play with him!"><img src="img/pup-laptop.svg" width="100%" alt="Byte the puppy shipping code on a laptop"></a>
 
 ## Experience
 
@@ -121,7 +123,7 @@ My first role. I built three web apps:
 
 </details>
 
-<img src="img/pup-trophy.svg" width="100%" alt="Byte the puppy celebrating with a trophy" title="Byte is very proud of that award 🏆">
+<a href="#-play-with-byte" title="Byte is very proud of that award 🏆 Click to play with him!"><img src="img/pup-trophy.svg" width="100%" alt="Byte the puppy celebrating with a trophy"></a>
 
 ## Projects
 
@@ -156,7 +158,7 @@ My first role. I built three web apps:
 
 </details>
 
-<img src="img/pup-bone.svg" width="100%" alt="Byte the puppy finding a bone and sniffing a flower" title="Byte found a bone 🦴">
+<a href="#-play-with-byte" title="Byte found a bone 🦴 Click to play with him!"><img src="img/pup-bone.svg" width="100%" alt="Byte the puppy finding a bone and sniffing a flower"></a>
 
 ## Skills
 
@@ -256,7 +258,7 @@ My first role. I built three web apps:
   <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator — Logos and vector graphics"><img src="img/sk/illustrator.svg" alt="Illustrator"></a>
 </p>
 
-<img src="img/pup-coffee.svg" width="100%" alt="Byte the puppy sniffing a coffee mug" title="Byte runs on coffee too ☕">
+<a href="#-play-with-byte" title="Byte runs on coffee too ☕ Click to play with him!"><img src="img/pup-coffee.svg" width="100%" alt="Byte the puppy sniffing a coffee mug"></a>
 
 ## Writing
 
