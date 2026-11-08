@@ -18,7 +18,7 @@
 <a href="https://github.com/vishwajitvm/DevFlow-AI"><img src="assets/flagship-devflow.svg" width="100%" alt="DevFlow-AI — self-hosted AI code review, auto-fix and CI/CD for GitHub and GitLab. 132 API endpoints, 9 agent roles, 90 free models routed, 502 tests."></a>
 
 <details>
-<summary><b>▸ Inspect the request</b> &nbsp;<sub>what happens when a pull request opens</sub></summary>
+<summary><b>Inspect the request</b> &nbsp;<sub>what happens when a pull request opens</sub></summary>
 <br>
 
 | step | what runs | why it matters |
@@ -56,7 +56,7 @@
 <sub>Hopline is live → <a href="https://hopline.onrender.com">hopline.onrender.com</a></sub>
 
 <details>
-<summary><b>▸ <code>GET /services?page=2</code></b> &nbsp;<sub>5 more AI systems</sub></summary>
+<summary><b><code>GET /services?page=2</code></b> &nbsp;<sub>5 more AI systems</sub></summary>
 <br>
 
 | service | what it does | built with |
@@ -137,7 +137,7 @@ Built **Angle Fertility** (hospital management), **Aragma** (event management) a
 <img src="assets/stack.svg" width="100%" alt="Tech stack in five layers — interfaces: React, Next.js, Angular, Vue, React Native, Electron; services: FastAPI, NestJS, Express, Laravel, GraphQL, WebSockets; intelligence: LangGraph, LangChain, MCP, LiteLLM, RAG, tool calling, multi-agent; data: PostgreSQL, pgvector, Qdrant, Redis, MongoDB, MySQL, Prisma; platform: Docker, GitHub Actions, GitLab CI, AWS, Azure, OpenTelemetry, Grafana">
 
 <details>
-<summary><b>▸ Cross-cutting concerns</b> &nbsp;<sub>security, testing, observability, LLM providers</sub></summary>
+<summary><b>Cross-cutting concerns</b> &nbsp;<sub>security, testing, observability, LLM providers</sub></summary>
 <br>
 
 | concern | what I use |
@@ -161,7 +161,7 @@ Built **Angle Fertility** (hospital management), **Aragma** (event management) a
 </p>
 
 <details>
-<summary><b>▸ <code>GET /posts</code></b> &nbsp;<sub>things I've written on Hashnode</sub></summary>
+<summary><b><code>GET /posts</code></b> &nbsp;<sub>things I've written on Hashnode</sub></summary>
 <br>
 
 - [Getting Started with LangChain: A Beginner's Guide](https://vishwajitvm.hashnode.dev/getting-started-with-langchain-a-beginners-guide)
