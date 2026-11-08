@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="40" viewBox="0 0 157 40" role="img" aria-label="OpenTelemetry">
+<title>OpenTelemetry</title>
+<defs><clipPath id="pc"><rect x="1.5" y="1.5" width="154" height="37" rx="18.5"/></clipPath><linearGradient id="shg" x1="0" x2="1"><stop offset="0" stop-color="#D97706" stop-opacity="0"/><stop offset=".5" stop-color="#D97706" stop-opacity=".22"/><stop offset="1" stop-color="#D97706" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji"}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes grow{to{transform:scaleX(1)}}
+.pulse{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(2.6);opacity:0}}
+.cy{opacity:0;animation:cy 10s infinite}
+@keyframes cy{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-10px)}}
+.pop{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}
+@keyframes pop{to{transform:scale(1)}}
+.float{animation:float 7s ease-in-out infinite}
+.float2{animation:float 9s ease-in-out infinite reverse}
+@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,12px)}}
+</style>
+<style>
+.sh{transform:translateX(-80px);animation:sh 9.0s linear infinite;animation-delay:7.00s}
+@keyframes sh{0%{transform:translateX(-80px)}9%,100%{transform:translateX(197px)}}
+.ic{transform-box:fill-box;transform-origin:center;animation:bop 9.0s ease-in-out infinite;animation-delay:7.10s}
+@keyframes bop{0%,8%,100%{transform:none}3%{transform:scale(1.3) rotate(-10deg)}}
+.bd{animation:bd 9.0s ease-in-out infinite;animation-delay:7.00s}
+@keyframes bd{0%,10%,100%{stroke:#FDE68A}4%{stroke:#D97706}}
+</style>
+<rect x=".75" y=".75" width="155.5" height="38.5" rx="19.25" fill="#FFFFFF" stroke="#FDE68A" stroke-width="1.5" class="bd"/>
+<g clip-path="url(#pc)"><g class="sh"><rect x="0" y="-10" width="46" height="60" fill="url(#shg)" transform="skewX(-20)"/></g></g>
+<g class="ic"><svg x="12.0" y="10.0" width="20" height="20" viewBox="0 0 24 24"><g fill="#000000"><path d="M12.6974 13.1173c-1.0224 1.0224-1.0224 2.68 0 3.7024 1.0224 1.0224 2.68 1.0224 3.7024 0 1.0224-1.0223 1.0224-2.68 0-3.7024-1.0223-1.0223-2.68-1.0223-3.7024 0zm2.7677 2.7701c-.5063.5063-1.3267.5063-1.833 0s-.5063-1.3266 0-1.833c.5063-.5062 1.3267-.5062 1.833 0 .5063.504.5063 1.3267 0 1.833zM16.356.2355l-1.6041 1.6042c-.314.314-.314.83 0 1.144L21.015 9.247c.314.314.83.314 1.144 0l1.6042-1.6041c.314-.314.314-.83 0-1.144L17.4976.2354c-.314-.314-.8276-.314-1.1416 0zM5.1173 20.734c.2848-.2848.2848-.7497 0-1.0345l-.8155-.8155c-.2848-.2848-.7497-.2848-1.0345 0l-1.6845 1.6845-.0024.0024-.4625-.4625c-.2556-.2556-.6718-.2556-.925 0-.2556.2556-.2556.6718 0 .925l2.775 2.775c.2556.2556.6718.2556.925 0 .2532-.2556.2556-.6718 0-.925l-.4625-.4625.0024-.0024zm8.4856-15.893-3.5637 3.5637c-.3164.3164-.3164.8374 0 1.1538l2.2006 2.2005c1.5554-1.1197 3.7365-.981 5.1361.4187l1.7819-1.7818c.3164-.3165.3164-.8374 0-1.1538l-4.401-4.401c-.3165-.319-.8374-.319-1.1539 0zm-2.2881 7.8455-1.2999-1.2999c-.3043-.3043-.8033-.3043-1.1076 0l-4.5836 4.586c-.3042.3043-.3042.8033 0 1.1076l2.5973 2.5973c.3043.3043.8033.3043 1.1076 0l2.9478-2.9527c-.6231-1.2877-.5112-2.8431.3384-4.0383z"/></g></svg></g>
+<text x="41" y="25.5" font-size="14.5" font-weight="600" fill="#111827">OpenTelemetry</text>
+</svg>

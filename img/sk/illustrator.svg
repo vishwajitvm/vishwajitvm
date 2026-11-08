@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="40" viewBox="0 0 142 40" role="img" aria-label="Illustrator">
+<title>Illustrator</title>
+<defs><clipPath id="pc"><rect x="1.5" y="1.5" width="139" height="37" rx="18.5"/></clipPath><linearGradient id="shg" x1="0" x2="1"><stop offset="0" stop-color="#475569" stop-opacity="0"/><stop offset=".5" stop-color="#475569" stop-opacity=".22"/><stop offset="1" stop-color="#475569" stop-opacity="0"/></linearGradient></defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji"}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes grow{to{transform:scaleX(1)}}
+.pulse{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(2.6);opacity:0}}
+.cy{opacity:0;animation:cy 10s infinite}
+@keyframes cy{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-10px)}}
+.pop{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}
+@keyframes pop{to{transform:scale(1)}}
+.float{animation:float 7s ease-in-out infinite}
+.float2{animation:float 9s ease-in-out infinite reverse}
+@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,12px)}}
+</style>
+<style>
+.sh{transform:translateX(-80px);animation:sh 9.0s linear infinite;animation-delay:7.98s}
+@keyframes sh{0%{transform:translateX(-80px)}9%,100%{transform:translateX(182px)}}
+.ic{transform-box:fill-box;transform-origin:center;animation:bop 9.0s ease-in-out infinite;animation-delay:8.08s}
+@keyframes bop{0%,8%,100%{transform:none}3%{transform:scale(1.3) rotate(-10deg)}}
+.bd{animation:bd 9.0s ease-in-out infinite;animation-delay:7.98s}
+@keyframes bd{0%,10%,100%{stroke:#CBD5E1}4%{stroke:#475569}}
+</style>
+<rect x=".75" y=".75" width="140.5" height="38.5" rx="19.25" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5" class="bd"/>
+<g clip-path="url(#pc)"><g class="sh"><rect x="0" y="-10" width="46" height="60" fill="url(#shg)" transform="skewX(-20)"/></g></g>
+<g class="ic"><svg x="12.0" y="10.0" width="20" height="20" viewBox="0 0 128 128"><g fill="#FF9A00"><path fill-rule="evenodd" clip-rule="evenodd" fill="#FAA625" d="M47.955 69h15.371c-2.646-9-5.252-17.32-7.816-25.776C53.022 51.71 50.498 60 47.955 69zm76.157-68H2.873C.687 1 1 1.476 1 3.585v121.394C1 127.086.687 127 2.719 127h121.547c2.031 0 2.734.086 2.734-2.022V3.739C127 1.476 126.298 1 124.112 1zM77.298 96c-1.637 0-3.28-.133-4.909-.016-1.175.088-1.568-.406-1.881-1.426-1.514-4.931-3.123-9.86-4.638-14.79-.305-.992-.741-1.354-1.816-1.341-5.523.064-11.049.058-16.573-.007-1.163-.014-1.698.296-2.03 1.45-1.406 4.904-2.944 9.768-4.365 14.667-.308 1.062-.776 1.433-1.904 1.404-3.318-.083-6.641-.032-10.274-.032.959-3.045 1.829-5.861 2.729-8.665 5.514-17.2 11.047-34.4 16.521-51.611.382-1.198.913-1.567 2.143-1.54 3.886.086 7.775.022 11.663 0 .727-.005 1.223.038 1.489.864 6.505 20.116 13.033 40.356 19.555 60.47.028.091.01.573.025.573h-5.735zM98 96H86V51h12v45zm-6.35-51.071c-3.665-.005-6.289-2.528-6.314-6.07-.024-3.532 2.707-6.159 6.406-6.163 3.728-.004 6.355 2.537 6.384 6.171.026 3.545-2.667 6.068-6.476 6.062z"/></g></svg></g>
+<text x="41" y="25.5" font-size="14.5" font-weight="600" fill="#111827">Illustrator</text>
+</svg>
