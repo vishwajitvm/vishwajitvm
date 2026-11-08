@@ -1,723 +1,406 @@
-<!-- ========================================================= -->
-<!--                    VISHWAJIT VM PROFILE                   -->
-<!-- ========================================================= -->
+<!-- ================================================================= -->
+<!--                        VISHWAJIT VM · PROFILE                       -->
+<!-- ================================================================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:8b5cf6&height=190&section=header&text=Vishwajit%20VM&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">Hi, I'm Vishwajit VM 👋</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=0891B2&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Python+Backend+Engineer;AI+%26+Generative+AI+Engineer;RAG+%7C+LLMs+%7C+LangChain+%7C+LangGraph;Building+Production-Ready+Systems"
-    alt="Typing Animation"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:8b5cf6&height=210&section=header&text=Vishwajit%20VM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Backend%20%26%20AI%2FLLM%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Vishwajit VM" />
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=vishwajitvm&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <a href="https://vishwajit-labs-web.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=0891B2&center=true&vCenter=true&width=900&lines=Python+Backend+Engineer+%C2%B7+5%2B+years;Building+AI+agents%2C+RAG+%26+LLM+systems+in+production;FastAPI+%C2%B7+NestJS+%C2%B7+LangGraph+%C2%B7+MCP+%C2%B7+PostgreSQL;Shipping+tools+other+developers+actually+use" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-
-<a href="https://vishwajit-labs-web.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Vishwajit%20Labs-0891B2?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/vishwajitvm">
-<img src="https://img.shields.io/badge/GITHUB-vishwajitvm-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/vishwajit-vm-179a61149">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:vishwajitmall50@gmail.com">
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-00C853?style=for-the-badge" />
-</a>
-
+  <a href="https://vishwajit-labs-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vishwajit%20Labs-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://pypi.org/user/vishwajitvm/"><img src="https://img.shields.io/badge/PyPI-TraceNest-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+  <a href="mailto:vishwajitmall50@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-00C853?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-🧭 About Me
-I'm a Full-Stack Developer with 4+ years of experience, currently specializing in Python backend engineering, AI systems, Generative AI, RAG, LLM applications, and scalable backend architecture.
-My current focus is building production-ready systems using Python, FastAPI, PostgreSQL, Redis, Celery, Docker, LangChain, LangGraph, and vector databases.
-Currently working on LokTathya and Tallyko, while continuing to build expertise in AI-powered backend systems and intelligent applications.
-🚀 Currently Building
 <p align="center">
-  <i>Building practical systems at the intersection of backend engineering, AI, and real-world data.</i>
+  <img src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=6366f1&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vishwajitvm?label=Followers&style=flat-square&color=0891b2&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Based%20in-New%20Delhi%2C%20India-8B5CF6?style=flat-square" alt="Location" />
 </p>
+
+<p align="center">
+  <a href="#-about-me"><b>About</b></a> ·
+  <a href="#-flagship-project--devflow-ai"><b>Flagship</b></a> ·
+  <a href="#-featured-projects"><b>Projects</b></a> ·
+  <a href="#-tech-stack"><b>Stack</b></a> ·
+  <a href="#-experience"><b>Experience</b></a> ·
+  <a href="#-github-at-a-glance"><b>Stats</b></a> ·
+  <a href="#-writing"><b>Writing</b></a> ·
+  <a href="#-lets-work-together"><b>Hire me</b></a>
+</p>
+
+---
+
+## 🧭 About Me
+
+```python
+class VishwajitMall:
+    role        = "Python Backend & AI/LLM Engineer"
+    experience  = "5+ years · building production APIs since 2021"
+    location    = "New Delhi, India 🇮🇳"
+    currently   = "Backend Developer @ SPNX — sole backend dev on a production EU VAT platform"
+
+    daily_stack = ["FastAPI", "Pydantic", "SQLAlchemy", "Celery", "Redis", "PostgreSQL", "Docker", "pytest"]
+    ai_stack    = ["LangGraph", "LangChain", "MCP", "LiteLLM", "RAG", "Qdrant", "pgvector", "Ollama"]
+    also_ship   = ["Node.js", "NestJS", "TypeScript", "Prisma", "React", "Next.js", "Laravel"]
+
+    i_care_about = [
+        "agents that are safe by default (allow-lists, approvals, sandboxes)",
+        "RAG that cites its sources",
+        "LLM routing that never falls over (fallbacks, cool-downs, local models)",
+        "tests that let you ship on a Friday",
+    ]
+
+    open_to = "freelance · contract · remote roles in backend & AI engineering"
+```
+
+<details>
+<summary><b>⚡ Quick facts</b> (click to expand)</summary>
+<br>
+
+| | |
+|---|---|
+| 💼 **Experience** | 5+ years (Aug 2021 → now) |
+| 🏢 **Now** | Backend Developer · SPNX |
+| 🏆 **Recognition** | Outstanding Performance Award · Bee Logical · Nov 2024 |
+| 🐍 **Primary language** | Python · also TypeScript, JavaScript, PHP |
+| 🧠 **AI focus** | Agents · RAG · tool calling · MCP · multi-provider LLM routing |
+| 🗄️ **Data** | PostgreSQL · MongoDB · MySQL · Redis · Qdrant · pgvector |
+| 🔐 **Security** | OAuth 2.0 / OIDC · Microsoft Entra ID · Keycloak · RBAC · 3 VAPT rounds cleared |
+| 📦 **Published** | TraceNest on PyPI · 18 releases |
+| 🎓 **Education** | B.Sc. · Panjab University, Chandigarh |
+
+</details>
+
+---
+
+## 🏆 Flagship Project · DevFlow-AI
 
 <table>
 <tr>
+<td width="60%" valign="top">
 
+### 🤖 [DevFlow-AI](https://github.com/vishwajitvm/DevFlow-AI)
+**Self-hosted AI code review, auto-fix & CI/CD platform for GitHub and GitLab.**
 
-
-<!-- ===================== LOKTATHYA ===================== -->
-
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🇮🇳%20ACTIVE%20DEVELOPMENT-00C853?style=for-the-badge" />
-</p>
-
-<h2>🇮🇳 LokTathya</h2>
-
-<p>
-  <b>Civic Data & Grounded Intelligence Platform</b>
-</p>
-
-<p>
-  Building a platform focused on making Indian public and government information easier to access, search, understand, and work with through reliable data pipelines and grounded AI.
-</p>
-
-<p><b>🎯 Current Focus</b></p>
-
-<p>
-  🔹 RAG & Grounded AI<br>
-  🔹 Civic Data & Information Retrieval<br>
-  🔹 Data Pipelines & Processing<br>
-  🔹 Verified Information<br>
-  🔹 Search & Discovery<br>
-  🔹 Scalable Backend Systems
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/vishwajitvm/LokTathya">
-    <img src="https://img.shields.io/badge/🔎%20Explore%20LokTathya-0891B2?style=for-the-badge" />
-  </a>
-</p>
+- 🧩 **132** API endpoints · **31** tables · **30** Celery tasks · **17** Docker services
+- 🧠 Framework-free **tool-calling agent loop** for **9 roles** — analyst, fixer, code & security reviewers — with JSON-schema-validated output, token budgets and AST caller-compatibility checks
+- 🔀 **LLM router** across **90 free models / 10 providers** with Retry-After cool-downs and local **Ollama** fallback
+- 🛡️ Every GitHub/GitLab write goes through **one MCP gateway** (57 allow-listed tools) with one-time keys and a deny-by-default *go / ask / stop* rules engine
+- 🧪 Reviews run in **no-network, read-only Docker sandboxes** · **392** unit · **67** API e2e · **43** Playwright tests in GitHub Actions & GitLab CI
 
 </td>
+<td width="40%" valign="top">
 
-<!-- ===================== TALLYKO ===================== -->
-
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚙️%20ACTIVE%20DEVELOPMENT-00C853?style=for-the-badge" />
-</p>
-
-<h2>🧾 Tallyko</h2>
-
-<p>
-  <b>Multi-Vendor Restaurant & Retail POS</b>
-</p>
-
-<p>
-  Building a scalable POS platform for restaurant and retail businesses, covering business workflows, backend services, integrations, background processing, storage, and containerized infrastructure.
-</p>
-
-<p><b>🎯 Current Focus</b></p>
-
-<p>
-  🔹 Multi-Vendor Architecture<br>
-  🔹 Restaurant & Retail Workflows<br>
-  🔹 Order & Business Management<br>
-  🔹 Async Background Processing<br>
-  🔹 File & Object Storage<br>
-  🔹 Containerized Infrastructure
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/vishwajitvm/Tallyko">
-    <img src="https://img.shields.io/badge/🔎%20Explore%20Tallyko-0891B2?style=for-the-badge" />
-  </a>
-</p>
+```mermaid
+flowchart TD
+    A[PR / MR event] --> B[MCP Gateway<br/>57 allow-listed tools]
+    B --> C{Rules engine<br/>go / ask / stop}
+    C -->|go| D[Agent loop · 9 roles]
+    C -->|ask| H[Human approval]
+    H --> D
+    D --> E[LLM Router<br/>10 providers + Ollama]
+    D --> F[Read-only<br/>Docker sandbox]
+    F --> G[Review · Auto-fix · CI]
+```
 
 </td>
-
-
-
-</tr>
-<tr>
-  <!-- ===================== REPOMIND ===================== -->
-
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20ACTIVE%20POC-6366F1?style=for-the-badge" />
-</p>
-
-<h2>🧠 RepoMind</h2>
-
-<p>
-  <b>AI Codebase Intelligence Platform</b>
-</p>
-
-<p>
-  Building an AI-powered platform that understands real-world repositories through code-aware indexing, RAG, GitHub MCP, LangGraph orchestration, multi-provider LLM routing, and source-level citations.
-</p>
-
-<p><b>🎯 Current Focus</b></p>
-
-<p>
-  🔹 Code-Aware Repository Indexing<br>
-  🔹 RAG & Semantic Code Search<br>
-  🔹 GitHub MCP Integration<br>
-  🔹 LangGraph Orchestration<br>
-  🔹 Multi-Provider LLM & Embedding Routing<br>
-  🔹 Execution Tracing & Observability
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/vishwajitvm/RepoMind">
-    <img src="https://img.shields.io/badge/🔎%20Explore%20RepoMind-6366F1?style=for-the-badge" />
-  </a>
-</p>
-
-</td>
-
-</tr>
-<tr>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/●%20Building-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/●%20Learning-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/●%20Shipping-00C853?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,nextjs,githubactions,gitlab&theme=dark" alt="DevFlow-AI stack" />
 </p>
 
-💼 Open to New Opportunities
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔁 [Hopline](https://github.com/vishwajitvm/Hopline) &nbsp;<a href="https://hopline.onrender.com"><img src="https://img.shields.io/badge/LIVE-demo-00C853?style=flat-square" /></a>
+**Encrypted peer-to-peer file transfer** — browser, desktop (Electron for Windows, macOS, Linux) and CLI.
+- WebRTC + Node.js WebSocket signaling
+- Encrypted TCP transfer with **CPace PAKE · HKDF · AES-256-GCM**
+- ⚡ **10 GiB in 56.8 s**, SHA-256 verified
+
+`Node.js` `WebRTC` `React 19` `Electron` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [Tallyko](https://github.com/vishwajitvm/Tallyko) &nbsp;<img src="https://img.shields.io/badge/ACTIVE-development-0891B2?style=flat-square" />
+**Multi-tenant restaurant & retail POS.**
+- FastAPI · **PostgreSQL row-level security** · 38 tables · Redis
+- Offline-first **React Native (Expo)** app that syncs queued bills without duplicates
+- Local OCR menu import · **400+ automated tests**
+
+`FastAPI` `PostgreSQL` `Redis` `React Native` `MinIO`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [RepoMind](https://github.com/vishwajitvm/RepoMind)
+**Ask questions about any GitHub repo — get answers with file & line citations.**
+- LangGraph + FastAPI · AST-based code chunking
+- Qdrant vector search + live GitHub API lookups
+- 9-provider LLM fallback
+
+`LangGraph` `FastAPI` `Qdrant` `React` `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐚 [OmniShell](https://github.com/vishwajitvm/OmniShell)
+**Natural-language → OS workflows, with human approval.**
+- 19 capability types on Linux, macOS & Windows
+- One LiteLLM planning call with Pydantic-validated JSON · 6-provider fallback
+- PostgreSQL scheduler with `FOR UPDATE SKIP LOCKED`, heartbeat leases & expiring approval tokens
+
+`FastAPI` `LiteLLM` `PostgreSQL` `Redis` `NestJS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇮🇳 [LokTathya](https://github.com/vishwajitvm/LokTathya) &nbsp;<img src="https://img.shields.io/badge/ACTIVE-development-0891B2?style=flat-square" />
+**Civic data & grounded-AI platform for India.**
+- FastAPI · Next.js · PostgreSQL/PostGIS · 50 tables
+- GitHub Actions pipeline running migrations + 76 tests
+- Grounded RAG over public information
+
+`FastAPI` `Next.js` `PostGIS` `RAG`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [TraceNest](https://github.com/vishwajitvm/TraceNest) &nbsp;<a href="https://pypi.org/project/tracenest/"><img src="https://img.shields.io/pypi/v/tracenest?style=flat-square&color=3775A9&label=PyPI" /></a>
+**Zero-dependency, thread-safe Python logging SDK.**
+- Daily rotation · recursive secret masking · FastAPI middleware
+- Built-in log viewer · 42 tests · 18 releases
+- Used in DevFlow-AI and OmniShell
+
+```bash
+pip install tracenest
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 More AI projects</b> (click to expand)</summary>
+<br>
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🏘️ [**TenantMind-AI**](https://github.com/vishwajitvm/TenantMind-AI) | Multi-tenant AI property management — database-per-tenant, per-tenant Qdrant collections, LLM gateway with fallback that logs latency & tokens per call | FastAPI · MongoDB · Keycloak · Qdrant · Celery |
+| 🐝 [**AgentHive**](https://github.com/vishwajitvm/AgentHive) | ReAct multi-agent platform — DB-configured LLM router, 40 tools with per-agent allow-lists, pgvector memory | FastAPI · PostgreSQL · pgvector · Celery · Next.js |
+| 📚 [**PolicyBot**](https://github.com/vishwajitvm/PolicyBot) | Hybrid RAG for company policies — vector + keyword retrieval, freshness-aware ranking, citations & confidence scores | FastAPI · Qdrant · MongoDB · LangGraph · React |
+| 🗣️ **NL-Automation-Platform** | Plain-English automations on 6 FastAPI microservices with a LangGraph clarification agent and a fail-closed safety classifier | FastAPI · LangGraph |
+| 🥗 **FitTrack-AI** | Meal nutrition from a photo via vision LLMs, grounded in USDA & Open Food Facts | Next.js · FastAPI |
+
+</details>
+
+---
+
+## 🧰 Tech Stack
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-00C853?style=for-the-badge" />
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,ts,js,php,laravel&perline=8&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,graphql,docker,aws&perline=8&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=azure,githubactions,gitlab,linux,react,nextjs,angular,vue&perline=8&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=electron,vite,tailwind,grafana,prometheus,git,postman,vercel&perline=8&theme=dark" />
 </p>
 
-Currently looking for opportunities in:
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Backend%20Engineering-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Engineering-8B5CF6?style=for-the-badge" />
-
-
-<img src="https://img.shields.io/badge/Generative%20AI-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG%20Engineer-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Engineer-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge" />
-
-</p>
-
-🌐 Portfolio
-<p align="center">
-
-<a href="https://vishwajit-labs-web.vercel.app/">
-<img
-src="https://img.shields.io/badge/Vishwajit%20Labs-Python%20Backend%20%26%20AI%20Systems%20Engineer-0891B2?style=for-the-badge&logo=vercel&logoColor=white"
-/>
-</a>
-
-</p>
-
-⚡ Quick Facts
-	
-🌍 Location	New Delhi, India
-💼 Experience	4+ Years
-🎯 Focus	Python Backend + AI Engineering
-🐍 Primary Language	Python
-⚡ Backend	FastAPI
-🧠 AI	RAG · LLMs · LangChain · LangGraph
-🗄️ Databases	PostgreSQL · MongoDB · MySQL · Redis
-🔎 Vector Databases	Qdrant · pgvector
-🐳 Infrastructure	Docker · AWS · Traefik · Celery · MinIO
-🚀 Current Projects	RepoMind · LokTathya · Tallyko
-💼 Availability	Open to Work
-
-
-🧰 Technical Skills
-🤖 AI / ML
-<p align="left">
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<details>
+<summary><b>🤖 AI / LLM engineering</b></summary>
+<br>
+<p>
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LiteLLM-0891B2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vector%20Databases-005571?style=for-the-badge" />
-
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-
-</p>
-
-🧩 Languages
-<p align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-</p>
-
-🔧 Backend & APIs
-<p align="left">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-0891B2?style=for-the-badge" />
-
-
-<img src="https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-
-</p>
-
-🔐 Authentication & Security
-<p align="left">
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OAuth%20%2F%20OIDC-EB5424?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RBAC-6366F1?style=for-the-badge" />
-
-</p>
-
-🎨 Frontend
-<p align="left">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-
-</p>
-
-🗄️ Databases
-<p align="left">
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/Qdrant-FF4F64?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool%20Calling-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Agent-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </p>
+<p><b>Providers I route across:</b> OpenAI · Gemini · Groq · Mistral · NVIDIA NIM · OpenRouter · Hugging Face · Ollama</p>
+</details>
 
-☁️ DevOps & Infrastructure
-<p align="left">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
-
-</p>
-
-📊 Observability & Development
-<p align="left">
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Loki-6366F1?style=for-the-badge" />
-
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<details>
+<summary><b>🔐 Security, testing & observability</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/OAuth%202.0%20%2F%20OIDC-EB5424?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AES--256--GCM-1C1C1C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" />
 </p>
-
-🎨 Design & Extras
-<p align="left">
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-
-</p>
+</details>
 
 ---
 
-# 💼 Professional Experience
+## 💼 Experience
 
-## 🏢 Bee Logical Software Solutions — Pune
+```mermaid
+timeline
+    title Career journey
+    2015 - 2018 : B.Sc. — Panjab University, Chandigarh
+    2021 - 2022 : Full Stack Developer — BluBrandz Technologies
+    2022        : Software Developer — WebReinvent (VaahCMS)
+    2022 - 2026 : Full Stack Developer — Bee Logical Software Solutions
+                : 🏆 Outstanding Performance Award (Nov 2024)
+    2026 →      : Backend Developer — SPNX
+```
 
-**Full Stack Developer · 3+ Years**
+<details open>
+<summary><b>🏢 SPNX — Backend Developer</b> &nbsp;·&nbsp; Oct 2026 → present</summary>
+<br>
 
-Worked across full-stack development, backend APIs, databases, integrations, and production applications.
+**FLO — VAT registration platform** · `NestJS 11` `TypeScript` `PostgreSQL 17` `Prisma 7` `Microsoft Entra ID` `Azure` `Jest`
 
-### 🤖 SmartHR
+- Sole backend developer of a staff workspace + client portal that runs **EU VAT registrations** — **244** REST operations, **34** NestJS modules, **63** Prisma models
+- Designed a **data-driven workflow engine** that runs each country's process as versioned data; the same guards enforce business rules and return each user's allowed actions
+- **Entra ID (OIDC)** sign-in, Postgres-backed sessions with CSRF protection, **RBAC with 4 roles & 21 permissions**
+- Cleared **3 security-test (VAPT) rounds** · 63 Jest spec files · 24-suite API end-to-end harness
 
-AI-powered recruitment platform for candidate screening and first-round interviews.
+</details>
 
-**Stack:** `FastAPI` · `React` · `Vite` · `TailwindCSS` · `LangChain` · `LangGraph` · `Gemini` · `MongoDB` · `Docker`
+<details>
+<summary><b>🐝 Bee Logical Software Solutions — Full Stack Developer</b> &nbsp;·&nbsp; Nov 2022 → Jun 2026</summary>
+<br>
 
-### 🏨 SetBot
+Core backend developer on production platforms; designed APIs, data models and auth, and shipped LLM features with the AI/ML team. **🏆 Outstanding Performance Award — Nov 2024.**
 
-Property booking platform covering residences, hostels, studios, restaurants, and shops.
+| Product | What I built | Stack |
+|---|---|---|
+| 🤖 **SmartHR** | AI interview platform — LangGraph pipeline for stateful multi-turn interviews, RAG over job descriptions, agent-based scoring & reports | FastAPI · LangChain · LangGraph · Gemini · MongoDB |
+| 🏨 **SetBot** | Property booking APIs for studios, hostels, restaurants & shops · JWT + RBAC across 4 roles | Node.js · Express · TypeScript · MySQL · Angular |
+| 🛍️ **Bella Canvas** | Led backend for a 5-stage 3D product-design lifecycle · Shopify order sync · S3 texture pipeline | Laravel · Vue.js · AWS RDS/S3 · Shopify API |
+| 🏠 **MahaEseva** | Government-compliant online rent agreements with e-sign, payments & biometric verification | Laravel · MySQL |
+| ❤️ **Havu** | Admin portal for an events-based dating app across multiple cities | React · GraphQL · AWS Amplify |
+| 💳 **Firmway** | Balance confirmation & reconciliation workflows | FinTech · Automation |
+| 🌐 **[Telosa](https://telosa.cx/)** | Customer-experience platform — locations, listings, leads, reputation | Integrations |
 
-**Stack:** `Node.js` · `Express.js` · `Angular` · `TypeScript` · `MySQL` · `JWT`
+</details>
 
-### ❤️ Havu
+<details>
+<summary><b>🧩 WebReinvent — Software Developer</b> &nbsp;·&nbsp; Jul 2022 → Oct 2022</summary>
+<br>
 
-Dating application focused on exclusive real-world events across multiple cities.
+Features & bug fixes in **VaahCMS**, an open-source Laravel + Vue.js CMS · `Laravel` `Vue.js` `MySQL` `REST APIs`
 
-**Stack:** `React` · `GraphQL` · `AWS Amplify`
+</details>
 
-### 🛍️ Bella Canvas
+<details>
+<summary><b>🏥 BluBrandz Technologies — Full Stack Developer</b> &nbsp;·&nbsp; Aug 2021 → Jun 2022</summary>
+<br>
 
-3D product customization and e-commerce platform for interactive product experiences.
+Built **Angle Fertility** (hospital management), **Aragma** (event management) and **Unicorn Equipments** (equipment tracking) · `Laravel` `MySQL`
 
-**Focus:** `3D Customization` · `E-Commerce` · `API Integration`
-
-### 🏠 MahaEseva
-
-Online rent agreement platform supporting agreement generation, digital signing, payments, and verification.
-
-**Focus:** `Digital Agreements` · `Payments` · `Verification`
-
-### 💳 Firmway
-
-Financial software focused on balance confirmation, reconciliation, and financial workflows.
-
-**Focus:** `FinTech` · `Reconciliation` · `Automation`
-
-### 🌐 Telosa
-
-Customer experience platform for businesses managing locations, customer interactions, listings, leads, and reputation.
-
-**Focus:** `Customer Experience` · `Multi-Location` · `Integrations`
-
-🔗 https://telosa.cx/
-
-### 🏆 Recognition
-
-**Outstanding Performance Award — November 2024**
-
----
-
-# 💻 Previous Experience
-
-## WebReinvent — New Delhi
-
-**Software Developer**
-
-### VaahCMS
-
-Worked on CMS features, backend modules, REST APIs, and production bug fixes.
-
-**Stack:** `Laravel` · `Vue.js` · `MySQL` · `REST APIs`
+</details>
 
 ---
 
-## BluBrandz Technologies — New Delhi
-
-**Full Stack Developer**
-
-### Angle Fertility
-
-Hospital management platform covering patient records, appointments, and clinical workflows.
-
-**Stack:** `Laravel` · `MySQL`
-
-### Aragma — House Party Management
-
-Event management platform for participants, expenditures, staff, and event operations.
-
-**Stack:** `Laravel` · `MySQL`
-
-### Unicorn Equipments
-
-Equipment management platform for tracking and maintaining machinery.
-
-**Stack:** `Laravel` · `MySQL`
-
----
-
-# 🚀 Personal & Open Source Projects
-
-### 🔭 TraceNest
-
-Zero-dependency Python logging SDK with rotation, retention, buffering, tracing, and secret redaction.
-
-**Stack:** `Python`
-
-🔗 https://github.com/vishwajitvm/TraceNest
-
----
-
-### 🧠 TenantMind-AI
-
-Multi-tenant AI property management platform with tenant isolation, RAG, and multi-provider LLM routing.
-
-**Stack:** `FastAPI` · `MongoDB` · `Qdrant` · `Celery` · `Redis` · `Docker`
-
-🔗 https://github.com/vishwajitvm/TenantMind-AI
-
----
-
-### 🤖 AgentHive
-
-Multi-agent orchestration platform for tools, LLM routing, retries, fallbacks, and execution tracing.
-
-**Stack:** `FastAPI` · `PostgreSQL` · `pgvector` · `Celery` · `Redis` · `Docker`
-
-🔗 https://github.com/vishwajitvm/AgentHive
-
----
-
-### 📚 PolicyBot
-
-RAG-based Q&A platform combining vector search, keyword retrieval, citations, confidence scoring, and execution tracing.
-
-**Stack:** `FastAPI` · `MongoDB` · `Qdrant` · `Gemini`
-
-🔗 https://github.com/vishwajitvm/PolicyBot
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub at a Glance
 
 <p align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwajitvm&theme=github_dark"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwajitvm&theme=github"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwajitvm&theme=github"
-alt="GitHub Statistics"
-width="48%"
-/>
-
-</picture>
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwajitvm&theme=github_dark"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwajitvm&theme=github"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwajitvm&theme=github"
-alt="Top Languages"
-width="48%"
-/>
-
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwajitvm&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishwajitvm&theme=github" width="49%" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwajitvm&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwajitvm&theme=github" width="49%" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vishwajitvm&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=vishwajitvm&theme=default&hide_border=true" width="98%" alt="GitHub streak" />
+  </picture>
+</p>
 
-<picture>
+<details>
+<summary><b>📈 Contribution activity</b> (click to expand)</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajitvm&bg_color=00000000&color=0891b2&line=6366f1&point=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20activity" width="98%" alt="Activity graph" />
+</p>
+</details>
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwajitvm&theme=github_dark"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwajitvm&theme=github"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwajitvm&theme=github"
-alt="GitHub Profile Details"
-width="96%"
-/>
-
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwajitvm/vishwajitvm/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vishwajitvm/vishwajitvm/output/github-snake.svg" alt="My contribution snake" />
+  </picture>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## ✍️ Writing
 
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajitvm&bg_color=00000000&color=0891b2&line=6366f1&point=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Activity"
-alt="GitHub Contribution Activity"
-width="96%"
-/>
-
-</p>
+| | Article |
+|---|---|
+| 📚 | [Getting Started with LangChain: A Beginner's Guide](https://vishwajitvm.hashnode.dev/getting-started-with-langchain-a-beginners-guide) |
+| 🤖 | [Build a Chatbot with Node.js and OpenAI API](https://vishwajitvm.hashnode.dev/build-a-chatbot-with-nodejs-and-openai-api) |
+| 🧩 | [Laravel Tips and Tricks: Become a Pro in No Time](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time) |
+| 🔎 | [Improve Your Debugging Skills with Laravel Telescope](https://vishwajitvm.hashnode.dev/improve-your-debugging-skills-with-laravel-telescope) |
+| 💳 | [Integrate Razorpay Payment Gateway in Laravel](https://vishwajitvm.hashnode.dev/integrate-razorpay-payment-gateway-in-laravel) |
 
 ---
 
-# 🧊 3D Contribution Activity
-
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /> </p>
-
----
-
-# ✍️ Latest Writing
-
-- 📚 [Getting Started with LangChain: A Beginner's Guide](https://vishwajitvm.hashnode.dev/getting-started-with-langchain-a-beginners-guide)
-- 🤖 [Build a Chatbot with Node.js and OpenAI API](https://vishwajitvm.hashnode.dev/build-a-chatbot-with-nodejs-and-openai-api)
-- 🧩 [Laravel Tips and Tricks: Become a Pro in No Time](https://vishwajitvm.hashnode.dev/laravel-tips-and-tricks-become-a-pro-in-no-time)
-- 🔎 [Improve Your Debugging Skills with Laravel Telescope](https://vishwajitvm.hashnode.dev/improve-your-debugging-skills-with-laravel-telescope)
-- 💳 [Integrate Razorpay Payment Gateway in Laravel](https://vishwajitvm.hashnode.dev/integrate-razorpay-payment-gateway-in-laravel)
-
----
-
-# 🌐 Connect With Me
+## 🤝 Let's Work Together
 
 <p align="center">
-
-<a href="https://vishwajit-labs-web.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Vishwajit%20Labs-0891B2?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/vishwajitvm">
-<img src="https://img.shields.io/badge/GitHub-vishwajitvm-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/vishwajit-vm-179a61149">
-<img src="https://img.shields.io/badge/LinkedIn-Vishwajit%20VM-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<br><br>
-
-<a href="https://www.twitter.com/VishwajitVm">
-<img src="https://img.shields.io/badge/Twitter-VishwajitVM-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://hashnode.com/@Vishwajitvm">
-<img src="https://img.shields.io/badge/Hashnode-VishwajitVM-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-
-<a href="https://www.codepen.io/vishwajitvm">
-<img src="https://img.shields.io/badge/CodePen-vishwajitvm-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA">
-<img src="https://img.shields.io/badge/YouTube-Vishwajit%20VM-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="mailto:vishwajitmall50@gmail.com">
-<img src="https://img.shields.io/badge/Email-vishwajitmall50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# ☕ Support My Work
-
-<p align="center">
-
-<a href="https://www.buymeacoffee.com/vishwajitm7">
-<img
-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-width="210"
-alt="Buy Me A Coffee"
-/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=0891B2&center=true&vCenter=true&width=720&lines=Python+%7C+Backend+%7C+AI+%7C+RAG+%7C+LLMs;Building+production-ready+systems;Always+learning.+Always+building."
-alt="Footer Animation"
-/>
-
+  <b>Open to freelance, contract & remote roles in</b><br><br>
+  <img src="https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design-0891B2?style=for-the-badge" />
 </p>
 
 <p align="center">
-<b>Python • Backend • AI • RAG • LLMs • Open Source</b>
+  <a href="mailto:vishwajitmall50@gmail.com"><img src="https://img.shields.io/badge/Email-vishwajitmall50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><img src="https://img.shields.io/badge/LinkedIn-Vishwajit%20VM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vishwajit-labs-web.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Vishwajit%20Labs-0891B2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
-
-<a href="https://vishwajit-labs-web.vercel.app/">
-<img
-src="https://img.shields.io/badge/Let's%20Build%20Something-0891B2?style=for-the-badge&logo=rocket&logoColor=white"
-/>
-</a>
-
+  <a href="https://www.twitter.com/VishwajitVm"><img src="https://img.shields.io/badge/X-@VishwajitVm-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://hashnode.com/@Vishwajitvm"><img src="https://img.shields.io/badge/Hashnode-Vishwajitvm-2962FF?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://www.codepen.io/vishwajitvm"><img src="https://img.shields.io/badge/CodePen-vishwajitvm-000000?style=flat-square&logo=codepen&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA"><img src="https://img.shields.io/badge/YouTube-Vishwajit%20VM-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/vishwajitm7"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" /></a>
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Python+%C2%B7+Backend+%C2%B7+AI+Agents+%C2%B7+RAG+%C2%B7+LLMs;Always+building.+Always+shipping." alt="Footer" />
+</p>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:8b5cf6&height=120&section=footer&animation=fadeIn"
-width="100%"
-/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:6366f1,100:8b5cf6&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
