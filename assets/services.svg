@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="384" viewBox="0 0 1000 384" role="img" aria-label="What I can do for you: AI assistants and chatbots, backends and APIs, AI automation and agents, secure business platforms.">
+<title>What I can do for you: AI assistants and chatbots, backends and APIs, AI automation and agents, secure business platforms.</title>
+<defs></defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji"}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes grow{to{transform:scaleX(1)}}
+.pulse{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(2.6);opacity:0}}
+.cy{opacity:0;animation:cy 10s infinite}
+@keyframes cy{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-10px)}}
+.pop{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}
+@keyframes pop{to{transform:scale(1)}}
+.float{animation:float 7s ease-in-out infinite}
+.float2{animation:float 9s ease-in-out infinite reverse}
+@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,12px)}}
+</style>
+<g class="fade" style="animation-delay:0.10s">
+<rect x="0.5" y="0.5" width="489" height="181" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="26" y="0" width="64" height="4" rx="2" fill="#4F46E5" class="bar" style="animation-delay:0.30s"/>
+<circle cx="50" cy="52" r="25" fill="#EEF2FF" stroke="#C7D2FE"/>
+<text x="50" y="60" text-anchor="middle" font-size="22">🤖</text>
+<text x="90" y="59" font-size="20" font-weight="800" fill="#111827">AI assistants &amp; chatbots</text>
+<text x="26" y="106" font-size="15.5" fill="#4B5563">Chatbots that answer from your own documents</text>
+<text x="26" y="128" font-size="15.5" fill="#4B5563">and show where every answer came from.</text>
+<rect x="20" y="142" width="450" height="28" rx="10" fill="#EEF2FF"/>
+<text x="32" y="160.5" font-size="13" fill="#4B5563">I've built: <tspan fill="#4F46E5" font-weight="700">PolicyBot · RepoMind · SmartHR</tspan></text>
+</g><g class="fade" style="animation-delay:0.25s">
+<rect x="510.5" y="0.5" width="489" height="181" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="536" y="0" width="64" height="4" rx="2" fill="#DB2777" class="bar" style="animation-delay:0.45s"/>
+<circle cx="560" cy="52" r="25" fill="#FDF2F8" stroke="#FBCFE8"/>
+<text x="560" y="60" text-anchor="middle" font-size="22">⚙️</text>
+<text x="600" y="59" font-size="20" font-weight="800" fill="#111827">Backends &amp; APIs</text>
+<text x="536" y="106" font-size="15.5" fill="#4B5563">The server, database and APIs behind your web</text>
+<text x="536" y="128" font-size="15.5" fill="#4B5563">or mobile app — fast, secure and well tested.</text>
+<rect x="530" y="142" width="450" height="28" rx="10" fill="#FDF2F8"/>
+<text x="542" y="160.5" font-size="13" fill="#4B5563">I've built: <tspan fill="#DB2777" font-weight="700">FLO · Tallyko · SetBot</tspan></text>
+</g><g class="fade" style="animation-delay:0.40s">
+<rect x="0.5" y="202.5" width="489" height="181" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="26" y="202" width="64" height="4" rx="2" fill="#D97706" class="bar" style="animation-delay:0.60s"/>
+<circle cx="50" cy="254" r="25" fill="#FFFBEB" stroke="#FDE68A"/>
+<text x="50" y="262" text-anchor="middle" font-size="22">🧩</text>
+<text x="90" y="261" font-size="20" font-weight="800" fill="#111827">AI automation &amp; agents</text>
+<text x="26" y="308" font-size="15.5" fill="#4B5563">Software that handles multi-step work for you,</text>
+<text x="26" y="330" font-size="15.5" fill="#4B5563">and asks a person before anything risky.</text>
+<rect x="20" y="344" width="450" height="28" rx="10" fill="#FFFBEB"/>
+<text x="32" y="362.5" font-size="13" fill="#4B5563">I've built: <tspan fill="#D97706" font-weight="700">DevFlow-AI · OmniShell · AgentHive</tspan></text>
+</g><g class="fade" style="animation-delay:0.55s">
+<rect x="510.5" y="202.5" width="489" height="181" rx="20" fill="#FFFFFF" stroke="#E5E7EB"/>
+<rect x="536" y="202" width="64" height="4" rx="2" fill="#059669" class="bar" style="animation-delay:0.75s"/>
+<circle cx="560" cy="254" r="25" fill="#ECFDF5" stroke="#A7F3D0"/>
+<text x="560" y="262" text-anchor="middle" font-size="22">🔐</text>
+<text x="600" y="261" font-size="20" font-weight="800" fill="#111827">Secure business platforms</text>
+<text x="536" y="308" font-size="15.5" fill="#4B5563">Sign-in, roles and permissions, payments and</text>
+<text x="536" y="330" font-size="15.5" fill="#4B5563">security that passes independent audits.</text>
+<rect x="530" y="344" width="450" height="28" rx="10" fill="#ECFDF5"/>
+<text x="542" y="362.5" font-size="13" fill="#4B5563">I've built: <tspan fill="#059669" font-weight="700">FLO (EU tax) · MahaEseva · Firmway</tspan></text>
+</g>
+</svg>

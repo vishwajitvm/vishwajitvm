@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="688" viewBox="0 0 1000 688" role="img" aria-label="My toolkit: frontend, backend and APIs, AI and LLMs, databases, security and testing, cloud and DevOps.">
+<title>My toolkit: frontend, backend and APIs, AI and LLMs, databases, security and testing, cloud and DevOps.</title>
+<defs><clipPath id="sc"><rect width="1000" height="688" rx="24"/></clipPath></defs>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji"}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.fade{opacity:0;animation:fade .7s ease-out forwards}
+@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.bar{transform-box:fill-box;transform-origin:left center;transform:scaleX(0);animation:grow 1s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes grow{to{transform:scaleX(1)}}
+.pulse{animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2s ease-out infinite}
+@keyframes ring{from{transform:scale(1);opacity:.8}to{transform:scale(2.6);opacity:0}}
+.cy{opacity:0;animation:cy 10s infinite}
+@keyframes cy{0%{opacity:0;transform:translateY(10px)}3%,22%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-10px)}}
+.pop{transform-box:fill-box;transform-origin:center;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.5,1) forwards}
+@keyframes pop{to{transform:scale(1)}}
+.float{animation:float 7s ease-in-out infinite}
+.float2{animation:float 9s ease-in-out infinite reverse}
+@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(-14px,12px)}}
+</style>
+<g clip-path="url(#sc)"><rect width="1000" height="688" fill="#FFFFFF"/></g><rect x=".5" y=".5" width="999" height="687" rx="24" fill="none" stroke="#E5E7EB"/><text x="32" y="40" class="mono" font-size="11" fill="#6B7280" letter-spacing="1.5">MY TOOLKIT · FROM WHAT YOU SEE TO WHAT KEEPS IT RUNNING</text><g class="fade" style="animation-delay:0.15s">
+<rect x="32" y="62" width="936" height="96" rx="16" fill="#F0F9FF"/>
+<rect x="32" y="76" width="4" height="68" rx="2" fill="#0284C7"/>
+<text x="56" y="108.0" font-size="17" font-weight="800" fill="#0284C7">What users see</text>
+<text x="56" y="128.0" font-size="12.5" fill="#4B5563">Frontend &amp; apps</text>
+<rect x="290.0" y="78.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="319.6" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">React</text>
+<rect x="357.2" y="78.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="394.3" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Next.js</text>
+<rect x="439.4" y="78.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="476.5" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Angular</text>
+<rect x="521.5" y="78.0" width="44.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="543.7" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Vue</text>
+<rect x="573.9" y="78.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="603.5" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Astro</text>
+<rect x="641.1" y="78.0" width="111.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="696.9" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">React Native</text>
+<rect x="760.5" y="78.0" width="81.6" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="801.3" y="96.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Electron</text>
+<rect x="290.0" y="114.0" width="111.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="345.7" y="132.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Tailwind CSS</text>
+<rect x="409.4" y="114.0" width="89.0" height="28" rx="14.0" fill="#FFFFFF" stroke="#BAE6FD"/>
+<text x="453.9" y="132.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Storybook</text>
+</g>
+<g class="fade" style="animation-delay:0.30s">
+<rect x="32" y="168" width="936" height="96" rx="16" fill="#EEF2FF"/>
+<rect x="32" y="182" width="4" height="68" rx="2" fill="#4F46E5"/>
+<text x="56" y="214.0" font-size="17" font-weight="800" fill="#4F46E5">The engine</text>
+<text x="56" y="234.0" font-size="12.5" fill="#4B5563">Backend &amp; APIs</text>
+<rect x="290.0" y="184.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="323.4" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Python</text>
+<rect x="364.7" y="184.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="401.8" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">FastAPI</text>
+<rect x="446.9" y="184.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="483.9" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Node.js</text>
+<rect x="529.0" y="184.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="562.4" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">NestJS</text>
+<rect x="603.7" y="184.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="640.8" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Express</text>
+<rect x="685.9" y="184.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="722.9" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Laravel</text>
+<rect x="768.0" y="184.0" width="44.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="790.2" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">PHP</text>
+<rect x="820.4" y="184.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="857.4" y="202.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">GraphQL</text>
+<rect x="290.0" y="220.0" width="51.8" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="315.9" y="238.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">REST</text>
+<rect x="349.8" y="220.0" width="96.5" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="398.1" y="238.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">WebSockets</text>
+<rect x="454.3" y="220.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#C7D2FE"/>
+<text x="487.7" y="238.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Celery</text>
+</g>
+<g class="fade" style="animation-delay:0.45s">
+<rect x="32" y="274" width="936" height="96" rx="16" fill="#F5F3FF"/>
+<rect x="32" y="288" width="4" height="68" rx="2" fill="#7C3AED"/>
+<text x="56" y="320.0" font-size="17" font-weight="800" fill="#7C3AED">The brain</text>
+<text x="56" y="340.0" font-size="12.5" fill="#4B5563">AI &amp; LLMs</text>
+<rect x="290.0" y="290.0" width="89.0" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="334.5" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">LangChain</text>
+<rect x="387.1" y="290.0" width="89.0" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="431.6" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">LangGraph</text>
+<rect x="484.1" y="290.0" width="44.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="506.3" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">MCP</text>
+<rect x="536.5" y="290.0" width="44.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="558.6" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">RAG</text>
+<rect x="588.8" y="290.0" width="89.0" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="633.3" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">AI agents</text>
+<rect x="685.9" y="290.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="722.9" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">LiteLLM</text>
+<rect x="768.0" y="290.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="801.4" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">OpenAI</text>
+<rect x="842.7" y="290.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="876.1" y="308.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Gemini</text>
+<rect x="290.0" y="326.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="323.4" y="344.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Ollama</text>
+<rect x="364.7" y="326.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="394.3" y="344.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">NumPy</text>
+<rect x="431.9" y="326.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#DDD6FE"/>
+<text x="465.3" y="344.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Pandas</text>
+</g>
+<g class="fade" style="animation-delay:0.60s">
+<rect x="32" y="380" width="936" height="70" rx="16" fill="#ECFDF5"/>
+<rect x="32" y="394" width="4" height="42" rx="2" fill="#059669"/>
+<text x="56" y="413.0" font-size="17" font-weight="800" fill="#059669">The memory</text>
+<text x="56" y="433.0" font-size="12.5" fill="#4B5563">Databases &amp; storage</text>
+<rect x="290.0" y="401.0" width="96.5" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="338.2" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">PostgreSQL</text>
+<rect x="394.5" y="401.0" width="81.6" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="435.3" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">pgvector</text>
+<rect x="484.1" y="401.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="517.5" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Qdrant</text>
+<rect x="558.8" y="401.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="595.9" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">MongoDB</text>
+<rect x="641.0" y="401.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="670.6" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">MySQL</text>
+<rect x="708.2" y="401.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="737.8" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Redis</text>
+<rect x="775.5" y="401.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="808.8" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Prisma</text>
+<rect x="850.2" y="401.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#A7F3D0"/>
+<text x="879.8" y="419.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">MinIO</text>
+</g>
+<g class="fade" style="animation-delay:0.75s">
+<rect x="32" y="460" width="936" height="96" rx="16" fill="#FDF2F8"/>
+<rect x="32" y="474" width="4" height="68" rx="2" fill="#DB2777"/>
+<text x="56" y="506.0" font-size="17" font-weight="800" fill="#DB2777">The safety net</text>
+<text x="56" y="526.0" font-size="12.5" fill="#4B5563">Security &amp; testing</text>
+<rect x="290.0" y="476.0" width="111.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="345.7" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">OAuth / OIDC</text>
+<rect x="409.4" y="476.0" width="156.1" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="487.4" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Microsoft Entra ID</text>
+<rect x="573.5" y="476.0" width="81.6" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="614.3" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Keycloak</text>
+<rect x="663.1" y="476.0" width="44.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="685.3" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">JWT</text>
+<rect x="715.5" y="476.0" width="51.8" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="741.4" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">RBAC</text>
+<rect x="775.2" y="476.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="812.3" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">AES-256</text>
+<rect x="857.4" y="476.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="890.8" y="494.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">pytest</text>
+<rect x="290.0" y="512.0" width="51.8" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="315.9" y="530.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Jest</text>
+<rect x="349.8" y="512.0" width="96.5" height="28" rx="14.0" fill="#FFFFFF" stroke="#FBCFE8"/>
+<text x="398.1" y="530.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Playwright</text>
+</g>
+<g class="fade" style="animation-delay:0.90s">
+<rect x="32" y="566" width="936" height="96" rx="16" fill="#FFFBEB"/>
+<rect x="32" y="580" width="4" height="68" rx="2" fill="#D97706"/>
+<text x="56" y="612.0" font-size="17" font-weight="800" fill="#D97706">The foundation</text>
+<text x="56" y="632.0" font-size="12.5" fill="#4B5563">Cloud, DevOps &amp; monitoring</text>
+<rect x="290.0" y="582.0" width="66.7" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="323.4" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Docker</text>
+<rect x="364.7" y="582.0" width="44.4" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="386.9" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">AWS</text>
+<rect x="417.1" y="582.0" width="59.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="446.7" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Azure</text>
+<rect x="484.3" y="582.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="521.4" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Traefik</text>
+<rect x="566.5" y="582.0" width="126.3" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="629.6" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">GitHub Actions</text>
+<rect x="700.8" y="582.0" width="89.0" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="745.3" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">GitLab CI</text>
+<rect x="797.8" y="582.0" width="96.5" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="846.0" y="600.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Prometheus</text>
+<rect x="290.0" y="618.0" width="74.2" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="327.1" y="636.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Grafana</text>
+<rect x="372.1" y="618.0" width="51.8" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="398.0" y="636.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">Loki</text>
+<rect x="431.9" y="618.0" width="118.9" height="28" rx="14.0" fill="#FFFFFF" stroke="#FDE68A"/>
+<text x="491.4" y="636.5" text-anchor="middle" class="mono" font-size="12.5" fill="#111827">OpenTelemetry</text>
+</g><line x1="270" y1="70" x2="270" y2="658" stroke="#CBD5E1" stroke-dasharray="3 4"/>
+<circle cx="270" cy="70" r="5" fill="#4F46E5">
+<animate attributeName="cy" values="70;658" dur="4.2s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#0284C7;#4F46E5;#7C3AED;#059669;#DB2777;#D97706" dur="4.2s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.06;.92;1" dur="4.2s" repeatCount="indefinite"/>
+</circle>
+</svg>

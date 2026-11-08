@@ -1,168 +1,134 @@
-<a href="https://vishwajit-labs-web.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Vishwajit Mall — Backend &amp; AI Engineer. I build APIs, AI agents and RAG systems. Open to freelance and contract work."></a>
+<a href="https://vishwajit-labs-web.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Vishwajit VM — Backend &amp; AI Engineer in New Delhi, India. 5+ years of experience. Available for freelance and contract work."></a>
 
 <p align="center">
-  <a href="#get-flagship"><code>GET /flagship</code></a>&nbsp;
-  <a href="#get-services"><code>GET /services</code></a>&nbsp;
-  <a href="#get-career"><code>GET /career</code></a>&nbsp;
-  <a href="#get-stack"><code>GET /stack</code></a>&nbsp;
-  <a href="#get-metrics"><code>GET /metrics</code></a>&nbsp;
-  <a href="#post-hello"><code>POST /hello</code></a>
+  <a href="#about-me"><img src="assets/nav-about.svg" alt="About"></a>
+  <a href="#what-i-can-do-for-you"><img src="assets/nav-services.svg" alt="Services"></a>
+  <a href="#experience"><img src="assets/nav-experience.svg" alt="Experience"></a>
+  <a href="#projects"><img src="assets/nav-projects.svg" alt="Projects"></a>
+  <a href="#skills"><img src="assets/nav-skills.svg" alt="Skills"></a>
+  <a href="#contact"><img src="assets/nav-contact.svg" alt="Contact"></a>
 </p>
 
+## About me
+
+I'm a software engineer from New Delhi, India. For over five years I've built the part of apps you don't see: the servers, databases and APIs that make everything work. I've done it for companies in **healthcare, hiring, real estate, finance and tax, retail, events and civic tech**.
+
+These days I focus on **AI that's actually useful**. That means assistants that answer questions from a company's own documents and show their sources, tools that review code, and automations that handle multi-step work but check with a person before anything risky.
+
+Right now I'm the backend developer at **SPNX** in Noida, where I run the whole server side of an EU tax-registration platform. Outside work I build open-source tools. One of them is published on PyPI, Python's public package library.
+
+> **In short:** if your product needs a reliable backend or a practical AI feature, I can build it end to end.
+
+## What I can do for you
+
+<img src="assets/services.svg" width="100%" alt="AI assistants and chatbots · Backends and APIs · AI automation and agents · Secure business platforms">
+
+## Experience
+
+<img src="assets/experience.svg" width="100%" alt="BluBrandz Technologies, Aug 2021 – Jun 2022 · WebReinvent, Jul – Oct 2022 · Bee Logical Software Solutions, Nov 2022 – Jun 2026 (Outstanding Performance Award, Nov 2024) · SPNX, Oct 2026 – now">
+
+<sub>Click a company to see what I did there.</sub>
+
+<details open>
+<summary><b>SPNX</b> · Backend Developer · Noida · <i>Oct 2026 – now</i></summary>
 <br>
 
-## GET /flagship
+I'm the only backend developer on **FLO**, a platform that handles **EU VAT (tax) registrations** for businesses. It has a workspace for staff and a portal for clients.
 
-<sub><code>200 OK</code> &nbsp;the one project I'd show you first</sub>
+- Built the entire server side: 244 API operations across 34 modules
+- Designed a workflow engine where each country's tax process is set up as configuration, not code
+- Set up Microsoft sign-in and permissions (4 roles, 21 permissions)
+- Passed **3 rounds of independent security testing**
 
-<a href="https://github.com/vishwajitvm/DevFlow-AI"><img src="assets/flagship-devflow.svg" width="100%" alt="DevFlow-AI — self-hosted AI code review, auto-fix and CI/CD for GitHub and GitLab. 132 API endpoints, 9 agent roles, 90 free models routed, 502 tests."></a>
-
-<details>
-<summary><b>Inspect the request</b> &nbsp;<sub>what happens when a pull request opens</sub></summary>
-<br>
-
-| step | what runs | why it matters |
-|:--:|---|---|
-| `1` | Webhook lands; a **Celery** task picks it up (30 task types, 17 Docker services) | the API never blocks on an LLM |
-| `2` | Every GitHub/GitLab call goes through **one MCP gateway** — 57 allow-listed tools, one-time keys | the agent can't touch anything that isn't on the list |
-| `3` | A deny-by-default **rules engine** answers *go / ask / stop* | risky writes wait for a human |
-| `4` | A framework-free **tool-calling loop** runs 9 roles — analyst, fixer, code & security reviewers — with JSON-schema output, token budgets and AST caller checks | answers are validated, not trusted |
-| `5` | The **LLM router** spreads load over 90 free models / 10 providers, honours `Retry-After`, falls back to local **Ollama** | rate limits don't stop a review |
-| `6` | Code runs in a **no-network, read-only Docker sandbox** | nothing leaks, nothing gets written by accident |
-
-<sub>Tested by 392 unit · 67 API end-to-end · 43 Playwright tests in GitHub Actions and GitLab CI.</sub>
-
-</details>
-
-<br>
-
-## GET /services
-
-<sub><code>200 OK</code> &nbsp;6 services running · click any card for the repo</sub>
-
-<p>
-  <a href="https://github.com/vishwajitvm/Hopline"><img src="assets/card-hopline.svg" width="49%" alt="Hopline — encrypted peer-to-peer file transfer in the browser, on desktop and from the CLI"></a>
-  <a href="https://github.com/vishwajitvm/Tallyko"><img src="assets/card-tallyko.svg" width="49%" alt="Tallyko — multi-tenant restaurant and retail POS with an offline-first mobile app"></a>
-</p>
-<p>
-  <a href="https://github.com/vishwajitvm/RepoMind"><img src="assets/card-repomind.svg" width="49%" alt="RepoMind — ask any GitHub repository a question, get answers with file and line citations"></a>
-  <a href="https://github.com/vishwajitvm/OmniShell"><img src="assets/card-omnishell.svg" width="49%" alt="OmniShell — plain English in, OS workflows out, planned by an LLM and approved by a human"></a>
-</p>
-<p>
-  <a href="https://github.com/vishwajitvm/LokTathya"><img src="assets/card-loktathya.svg" width="49%" alt="LokTathya — India's public information made searchable and verifiable with grounded AI"></a>
-  <a href="https://pypi.org/project/tracenest/"><img src="assets/card-tracenest.svg" width="49%" alt="TraceNest — zero-dependency, thread-safe Python logging on PyPI"></a>
-</p>
-
-<sub>Hopline is live → <a href="https://hopline.onrender.com">hopline.onrender.com</a></sub>
-
-<details>
-<summary><b><code>GET /services?page=2</code></b> &nbsp;<sub>5 more AI systems</sub></summary>
-<br>
-
-| service | what it does | built with |
-|---|---|---|
-| [**TenantMind-AI**](https://github.com/vishwajitvm/TenantMind-AI) | Multi-tenant AI property management — a database per tenant, a Qdrant collection per tenant, an LLM gateway that logs latency and tokens on every call | FastAPI · MongoDB · Keycloak · Qdrant · Celery |
-| [**AgentHive**](https://github.com/vishwajitvm/AgentHive) | ReAct multi-agent platform — LLM router configured from the database, 40 tools with per-agent allow-lists, pgvector memory | FastAPI · PostgreSQL · pgvector · Next.js |
-| [**PolicyBot**](https://github.com/vishwajitvm/PolicyBot) | Hybrid RAG over company policies — vector + keyword retrieval, freshness-aware ranking, citations and confidence scores | FastAPI · Qdrant · LangGraph · React |
-| **NL-Automation-Platform** | Plain-English automations across 6 microservices, with a clarifying agent and a fail-closed safety classifier | FastAPI · LangGraph |
-| **FitTrack-AI** | Meal nutrition from a photo, grounded in USDA and Open Food Facts data | Next.js · FastAPI · vision LLMs |
-
-</details>
-
-<br>
-
-## GET /career
-
-<sub><code>200 OK</code> &nbsp;5+ years, every release shipped to production</sub>
-
-<img src="assets/career.svg" width="100%" alt="Career: Panjab University (2015–2018) → BluBrandz, Full Stack Developer (2021–2022) → WebReinvent, Software Developer (2022) → Bee Logical, Full Stack Developer (2022–2026), Outstanding Performance Award 2024 → SPNX, Backend Developer (2026–now)">
-
-<sub>Click a commit to <code>git show</code> it.</sub>
-
-<details>
-<summary><code>HEAD</code> &nbsp;<b>feat(spnx):</b> sole backend for FLO, an EU VAT registration platform &nbsp;<sub>Oct 2026 → now</sub></summary>
-<br>
-
-Staff workspace + client portal that runs EU VAT registrations end to end.
-
-- **244** REST operations · **34** NestJS modules · **63** Prisma models
-- A **data-driven workflow engine**: each country's process is versioned data, and the same guards that enforce the rules return each user's allowed actions
-- **Microsoft Entra ID** sign-in, Postgres-backed sessions with CSRF protection, **RBAC** with 4 roles and 21 permissions
-- Cleared **3 security-test (VAPT) rounds** · 63 Jest spec files · a 24-suite API end-to-end harness
-
-`NestJS 11` `TypeScript` `PostgreSQL 17` `Prisma 7` `Entra ID` `Azure` `Jest`
+<sub>Tech used: NestJS · TypeScript · PostgreSQL · Prisma · Microsoft Entra ID · Azure · Jest</sub>
 
 </details>
 
 <details>
-<summary><code>v2022.11</code> &nbsp;<b>feat(bee-logical):</b> SmartHR, SetBot, Bella Canvas and 4 more products &nbsp;<sub>Nov 2022 → Jun 2026</sub></summary>
+<summary><b>Bee Logical Software Solutions</b> · Full Stack Developer · Pune · <i>Nov 2022 – Jun 2026</i></summary>
 <br>
 
-Core backend developer on production platforms — APIs, data models, auth, and LLM features with the AI/ML team. **🏆 Outstanding Performance Award, Nov 2024.**
+I worked on seven live products for clients in hiring, real estate, e-commerce, dating, finance and customer experience.<br>
+🏆 **Outstanding Performance Award, November 2024**
 
-| product | what I built | stack |
-|---|---|---|
-| **SmartHR** | AI interview platform — LangGraph pipeline for stateful multi-turn interviews, RAG over job descriptions, agent-based scoring and reports | FastAPI · LangGraph · Gemini · MongoDB |
-| **SetBot** | Booking APIs for studios, hostels, restaurants and shops, with JWT + RBAC across 4 roles | Node.js · Express · TypeScript · MySQL |
-| **Bella Canvas** | Led the backend for a 5-stage 3D product-design lifecycle, Shopify order sync and an S3 texture pipeline | Laravel · Vue.js · AWS · Shopify API |
-| **MahaEseva** | Government-compliant online rent agreements with e-sign, payments and biometric checks | Laravel · MySQL |
-| **Havu** | Admin portal for an events-based dating app across several cities | React · GraphQL · AWS Amplify |
-| **Firmway** | Balance confirmation and reconciliation workflows | FinTech |
-| [**Telosa**](https://telosa.cx/) | Customer-experience platform — locations, listings, leads, reputation | Integrations |
-
-</details>
-
-<details>
-<summary><code>v2022.07</code> &nbsp;<b>feat(webreinvent):</b> features and fixes in VaahCMS &nbsp;<sub>Jul → Oct 2022</sub></summary>
-<br>
-
-Worked on **VaahCMS**, an open-source Laravel + Vue.js CMS. &nbsp;`Laravel` `Vue.js` `MySQL`
-
-</details>
-
-<details>
-<summary><code>v2021.08</code> &nbsp;<b>init(blubrandz):</b> first production apps &nbsp;<sub>Aug 2021 → Jun 2022</sub></summary>
-<br>
-
-Built **Angle Fertility** (hospital management), **Aragma** (event management) and **Unicorn Equipments** (equipment tracking). &nbsp;`Laravel` `MySQL`
-
-</details>
-
-<br>
-
-## GET /stack
-
-<sub><code>200 OK</code> &nbsp;follow the packet down the layers</sub>
-
-<img src="assets/stack.svg" width="100%" alt="Tech stack in five layers — interfaces: React, Next.js, Angular, Vue, React Native, Electron; services: FastAPI, NestJS, Express, Laravel, GraphQL, WebSockets; intelligence: LangGraph, LangChain, MCP, LiteLLM, RAG, tool calling, multi-agent; data: PostgreSQL, pgvector, Qdrant, Redis, MongoDB, MySQL, Prisma; platform: Docker, GitHub Actions, GitLab CI, AWS, Azure, OpenTelemetry, Grafana">
-
-<details>
-<summary><b>Cross-cutting concerns</b> &nbsp;<sub>security, testing, observability, LLM providers</sub></summary>
-<br>
-
-| concern | what I use |
+| Product | What it is |
 |---|---|
-| **Identity & access** | OAuth 2.0 / OIDC · Microsoft Entra ID · Keycloak · JWT · RBAC |
-| **Secrets & crypto** | Azure Key Vault · AES-256-GCM · CPace PAKE |
-| **Testing** | pytest · Jest · Playwright · API end-to-end harnesses |
-| **Observability** | OpenTelemetry · Prometheus · Grafana |
-| **LLM providers I route across** | OpenAI · Gemini · Groq · Mistral · NVIDIA NIM · OpenRouter · Hugging Face · Ollama |
+| **SmartHR** | An AI interviewer that screens candidates and runs first-round interviews. I built the AI interview flow and the part that reads job descriptions. |
+| **SetBot** | Booking for homes, hostels, studios, restaurants and shops. I built its booking APIs and access control for 4 types of users. |
+| **Bella Canvas** | A 3D product designer with an online store. I led the backend: the 5-step design process, Shopify order sync and image storage. |
+| **MahaEseva** | Online rent agreements that meet government rules, with e-signing, payments and biometric checks. |
+| **Havu** | An admin portal for a dating app built around real-world events in several cities. |
+| **Firmway** | Financial software for balance confirmations and reconciliation. |
+| [**Telosa**](https://telosa.cx/) | A customer-experience platform for businesses with many locations: listings, leads and reputation. |
+
+<sub>Tech used: FastAPI · LangChain · LangGraph · Gemini · Node.js · Express · Angular · Laravel · Vue.js · React · GraphQL · AWS · MongoDB · MySQL</sub>
 
 </details>
 
+<details>
+<summary><b>WebReinvent</b> · Software Developer · New Delhi · <i>Jul – Oct 2022</i></summary>
 <br>
 
-## GET /metrics
+Built features, backend modules and APIs, and fixed bugs in **VaahCMS**, an open-source content management system.
 
-<sub><code>200 OK</code> &nbsp;live from GitHub</sub>
+<sub>Tech used: Laravel · Vue.js · MySQL</sub>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwajitvm&background=0E1420&border=1F2937&stroke=1F2937&ring=A78BFA&fire=F472B6&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=22D3EE&sideLabels=9CA3AF&dates=6B7280&border_radius=16" width="62%" alt="GitHub contribution streak">
+</details>
+
+<details>
+<summary><b>BluBrandz Technologies</b> · Full Stack Developer · New Delhi · <i>Aug 2021 – Jun 2022</i></summary>
+<br>
+
+My first role. I built three web apps:
+
+- **Angle Fertility**: hospital management covering patient records, appointments and clinical workflows
+- **Aragma**: house-party and event management covering guests, spending and staff
+- **Unicorn Equipments**: tracking and maintenance for machinery
+
+<sub>Tech used: Laravel · MySQL</sub>
+
+</details>
+
+## Projects
+
+<sub>Things I've built on my own. Click any card to open it.</sub>
+
+<a href="https://github.com/vishwajitvm/DevFlow-AI"><img src="assets/flagship-devflow.svg" width="100%" alt="DevFlow-AI — an AI teammate that reviews code, suggests fixes and runs tests on your own servers, for GitHub and GitLab"></a>
+
+<p>
+  <a href="https://hopline.onrender.com"><img src="assets/card-hopline.svg" width="49%" alt="Hopline — send big files straight between devices, encrypted. Live."></a>
+  <a href="https://github.com/vishwajitvm/Tallyko"><img src="assets/card-tallyko.svg" width="49%" alt="Tallyko — billing and ordering for restaurants and shops, works offline"></a>
+</p>
+<p>
+  <a href="https://github.com/vishwajitvm/RepoMind"><img src="assets/card-repomind.svg" width="49%" alt="RepoMind — ask any GitHub project a question, answers point to the exact file and line"></a>
+  <a href="https://github.com/vishwajitvm/LokTathya"><img src="assets/card-loktathya.svg" width="49%" alt="LokTathya — makes India's public information easier to find, check and understand"></a>
+</p>
+<p>
+  <a href="https://github.com/vishwajitvm/OmniShell"><img src="assets/card-omnishell.svg" width="49%" alt="OmniShell — describe a task in plain English, it runs the steps once you approve"></a>
+  <a href="https://pypi.org/project/tracenest/"><img src="assets/card-tracenest.svg" width="49%" alt="TraceNest — a Python logging library that hides passwords and keys automatically"></a>
 </p>
 
 <details>
-<summary><b><code>GET /posts</code></b> &nbsp;<sub>things I've written on Hashnode</sub></summary>
+<summary><b>5 more AI projects</b></summary>
 <br>
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**TenantMind-AI**](https://github.com/vishwajitvm/TenantMind-AI) | An AI assistant for property managers. Each client's data is kept completely separate. | FastAPI · MongoDB · Qdrant · Celery |
+| [**AgentHive**](https://github.com/vishwajitvm/AgentHive) | A platform where several AI agents work together, each limited to its own approved tools. | FastAPI · PostgreSQL · pgvector |
+| [**PolicyBot**](https://github.com/vishwajitvm/PolicyBot) | Answers staff questions from company policy documents, with sources and a confidence score. | FastAPI · Qdrant · Gemini |
+| **NL-Automation-Platform** | Turns plain-English requests into automations, and refuses anything unsafe. | FastAPI · LangGraph |
+| **FitTrack-AI** | Snap a photo of a meal and get its nutrition, checked against USDA data. | Next.js · FastAPI |
+
+</details>
+
+## Skills
+
+<img src="assets/skills.svg" width="100%" alt="Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
+
+<sub>Also: Git · Postman · Vite · Socket.io · Adobe Photoshop · Adobe Illustrator</sub>
+
+## Writing
 
 - [Getting Started with LangChain: A Beginner's Guide](https://vishwajitvm.hashnode.dev/getting-started-with-langchain-a-beginners-guide)
 - [Build a Chatbot with Node.js and OpenAI API](https://vishwajitvm.hashnode.dev/build-a-chatbot-with-nodejs-and-openai-api)
@@ -170,30 +136,33 @@ Built **Angle Fertility** (hospital management), **Aragma** (event management) a
 - [Improve Your Debugging Skills with Laravel Telescope](https://vishwajitvm.hashnode.dev/improve-your-debugging-skills-with-laravel-telescope)
 - [Integrate Razorpay Payment Gateway in Laravel](https://vishwajitvm.hashnode.dev/integrate-razorpay-payment-gateway-in-laravel)
 
+<details>
+<summary><b>My GitHub activity</b></summary>
+<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishwajitvm&background=FFFFFF&border=E5E7EB&stroke=E5E7EB&ring=4F46E5&fire=DB2777&currStreakNum=111827&sideNums=111827&currStreakLabel=4F46E5&sideLabels=4B5563&dates=6B7280&border_radius=24" width="62%" alt="GitHub contribution streak">
+</p>
 </details>
 
-<br>
+## Contact
 
-## POST /hello
-
-<sub><code>201 Created</code> &nbsp;the best requests start with an email</sub>
-
-<a href="mailto:vishwajitmall50@gmail.com"><img src="assets/contact.svg" width="100%" alt="Contact: vishwajitmall50@gmail.com — open to freelance, contract and remote work. Best at Python backends, AI agents, RAG and LLM integration. Timezone IST (UTC+05:30)."></a>
+<a href="mailto:vishwajitmall50@gmail.com"><img src="assets/contact.svg" width="100%" alt="Have a project in mind? Email vishwajitmall50@gmail.com — available for freelance and contract work, remote."></a>
 
 <p align="center">
-  <a href="mailto:vishwajitmall50@gmail.com"><code>email ↗</code></a>&nbsp;
-  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><code>linkedin ↗</code></a>&nbsp;
-  <a href="https://vishwajit-labs-web.vercel.app/"><code>portfolio ↗</code></a>&nbsp;
-  <a href="https://hashnode.com/@Vishwajitvm"><code>hashnode ↗</code></a>&nbsp;
-  <a href="https://pypi.org/user/vishwajitvm/"><code>pypi ↗</code></a>&nbsp;
-  <a href="https://www.twitter.com/VishwajitVm"><code>x ↗</code></a>&nbsp;
-  <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA"><code>youtube ↗</code></a>&nbsp;
-  <a href="https://www.buymeacoffee.com/vishwajitm7"><code>coffee ↗</code></a>
+  <a href="mailto:vishwajitmall50@gmail.com"><img src="assets/btn-email.svg" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://vishwajit-labs-web.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.twitter.com/VishwajitVm">X / Twitter</a> ·
+  <a href="https://hashnode.com/@Vishwajitvm">Hashnode</a> ·
+  <a href="https://pypi.org/user/vishwajitvm/">PyPI</a> ·
+  <a href="https://www.codepen.io/vishwajitvm">CodePen</a> ·
+  <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA">YouTube</a> ·
+  <a href="https://www.buymeacoffee.com/vishwajitm7">Buy me a coffee ☕</a>
+</p>
 
 <p align="center">
-  <sub>Every panel on this page is a hand-written SVG — <a href="assets">view the source</a>.</sub><br>
-  <img src="https://komarev.com/ghpvc/?username=vishwajitvm&label=requests%20served&color=0E1420&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile views">
 </p>
