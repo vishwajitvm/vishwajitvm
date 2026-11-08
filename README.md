@@ -161,12 +161,6 @@ Built **Angle Fertility** (hospital management), **Aragma** (event management) a
 </p>
 
 <details>
-<summary><b>▸ Commit activity, last 31 days</b></summary>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajitvm&bg_color=0E1420&color=9CA3AF&line=A78BFA&point=22D3EE&area=true&area_color=A78BFA&hide_border=true&radius=16&title_color=F9FAFB&custom_title=commits%20over%20time" width="100%" alt="Contribution activity graph">
-</details>
-
-<details>
 <summary><b>▸ <code>GET /posts</code></b> &nbsp;<sub>things I've written on Hashnode</sub></summary>
 <br>
 
