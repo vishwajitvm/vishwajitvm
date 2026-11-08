@@ -141,7 +141,7 @@ My first role. I built three web apps:
 
 ## Skills
 
-<img src="img/skills.svg" width="100%" alt="Tools: Git, GitHub, Postman, Vite, Socket.io, Vercel, Photoshop, Illustrator. Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
+<img src="img/toolkit.svg" width="100%" alt="Tools: Git, GitHub, Postman, Vite, Socket.io, Vercel, Photoshop, Illustrator. Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
 
 ## Writing
 
