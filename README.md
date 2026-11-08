@@ -19,6 +19,23 @@ Right now I'm the backend developer at **SPNX** in Noida, where I run the whole 
 
 > **In short:** if your product needs a reliable backend or a practical AI feature, I can build it end to end.
 
+## Find me online
+
+<p align="center">
+  <a href="mailto:vishwajitmall50@gmail.com"><img src="img/social-email.svg" width="19%" alt="Email: vishwajitmall50@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><img src="img/social-linkedin.svg" width="19%" alt="LinkedIn: Vishwajit VM"></a>
+  <a href="https://github.com/vishwajitvm"><img src="img/social-github.svg" width="19%" alt="GitHub: @vishwajitvm"></a>
+  <a href="https://vishwajit-labs-web.vercel.app/"><img src="img/social-portfolio.svg" width="19%" alt="Portfolio: Vishwajit Labs"></a>
+  <a href="https://www.twitter.com/VishwajitVm"><img src="img/social-x.svg" width="19%" alt="X (Twitter): @VishwajitVm"></a>
+</p>
+<p align="center">
+  <a href="https://hashnode.com/@Vishwajitvm"><img src="img/social-hashnode.svg" width="19%" alt="Hashnode: @Vishwajitvm"></a>
+  <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA"><img src="img/social-youtube.svg" width="19%" alt="YouTube: Vishwajit VM"></a>
+  <a href="https://www.codepen.io/vishwajitvm"><img src="img/social-codepen.svg" width="19%" alt="CodePen: @vishwajitvm"></a>
+  <a href="https://pypi.org/user/vishwajitvm/"><img src="img/social-pypi.svg" width="19%" alt="PyPI: vishwajitvm"></a>
+  <a href="https://www.buymeacoffee.com/vishwajitm7"><img src="img/social-coffee.svg" width="19%" alt="Buy Me a Coffee: vishwajitm7"></a>
+</p>
+
 ## What I can do for you
 
 <img src="img/services.svg" width="100%" alt="AI assistants and chatbots · Backends and APIs · AI automation and agents · Secure business platforms">
@@ -124,9 +141,7 @@ My first role. I built three web apps:
 
 ## Skills
 
-<img src="img/skills.svg" width="100%" alt="Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
-
-<sub>Also: Git · Postman · Vite · Socket.io · Adobe Photoshop · Adobe Illustrator</sub>
+<img src="img/skills.svg" width="100%" alt="Tools: Git, GitHub, Postman, Vite, Socket.io, Vercel, Photoshop, Illustrator. Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
 
 ## Writing
 
@@ -154,14 +169,7 @@ My first role. I built three web apps:
   <a href="https://vishwajit-labs-web.vercel.app/"><img src="img/btn-portfolio.svg" alt="Portfolio"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.twitter.com/VishwajitVm">X / Twitter</a> ·
-  <a href="https://hashnode.com/@Vishwajitvm">Hashnode</a> ·
-  <a href="https://pypi.org/user/vishwajitvm/">PyPI</a> ·
-  <a href="https://www.codepen.io/vishwajitvm">CodePen</a> ·
-  <a href="https://www.youtube.com/channel/UCldd1WpTGf1uX1ZDdNH20IA">YouTube</a> ·
-  <a href="https://www.buymeacoffee.com/vishwajitm7">Buy me a coffee ☕</a>
-</p>
+<p align="center"><sub>All my profiles are under <a href="#find-me-online">Find me online</a>.</sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishwajitvm&label=Profile%20views&color=4F46E5&style=flat-square" alt="Profile views">
