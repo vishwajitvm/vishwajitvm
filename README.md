@@ -1,12 +1,12 @@
-<a href="https://vishwajit-labs-web.vercel.app/"><img src="assets/hero.svg" width="100%" alt="Vishwajit VM — Backend &amp; AI Engineer in New Delhi, India. 5+ years of experience. Available for freelance and contract work."></a>
+<a href="https://vishwajit-labs-web.vercel.app/"><img src="img/hero.svg" width="100%" alt="Vishwajit VM — Backend &amp; AI Engineer in New Delhi, India. 5+ years of experience. Available for freelance and contract work."></a>
 
 <p align="center">
-  <a href="#about-me"><img src="assets/nav-about.svg" alt="About"></a>
-  <a href="#what-i-can-do-for-you"><img src="assets/nav-services.svg" alt="Services"></a>
-  <a href="#experience"><img src="assets/nav-experience.svg" alt="Experience"></a>
-  <a href="#projects"><img src="assets/nav-projects.svg" alt="Projects"></a>
-  <a href="#skills"><img src="assets/nav-skills.svg" alt="Skills"></a>
-  <a href="#contact"><img src="assets/nav-contact.svg" alt="Contact"></a>
+  <a href="#about-me"><img src="img/nav-about.svg" alt="About"></a>
+  <a href="#what-i-can-do-for-you"><img src="img/nav-services.svg" alt="Services"></a>
+  <a href="#experience"><img src="img/nav-experience.svg" alt="Experience"></a>
+  <a href="#projects"><img src="img/nav-projects.svg" alt="Projects"></a>
+  <a href="#skills"><img src="img/nav-skills.svg" alt="Skills"></a>
+  <a href="#contact"><img src="img/nav-contact.svg" alt="Contact"></a>
 </p>
 
 ## About me
@@ -21,11 +21,11 @@ Right now I'm the backend developer at **SPNX** in Noida, where I run the whole 
 
 ## What I can do for you
 
-<img src="assets/services.svg" width="100%" alt="AI assistants and chatbots · Backends and APIs · AI automation and agents · Secure business platforms">
+<img src="img/services.svg" width="100%" alt="AI assistants and chatbots · Backends and APIs · AI automation and agents · Secure business platforms">
 
 ## Experience
 
-<img src="assets/experience.svg" width="100%" alt="BluBrandz Technologies, Aug 2021 – Jun 2022 · WebReinvent, Jul – Oct 2022 · Bee Logical Software Solutions, Nov 2022 – Jun 2026 (Outstanding Performance Award, Nov 2024) · SPNX, Oct 2026 – now">
+<img src="img/experience.svg" width="100%" alt="BluBrandz Technologies, Aug 2021 – Jun 2022 · WebReinvent, Jul – Oct 2022 · Bee Logical Software Solutions, Nov 2022 – Jun 2026 (Outstanding Performance Award, Nov 2024) · SPNX, Oct 2026 – now">
 
 <sub>Click a company to see what I did there.</sub>
 
@@ -93,19 +93,19 @@ My first role. I built three web apps:
 
 <sub>Things I've built on my own. Click any card to open it.</sub>
 
-<a href="https://github.com/vishwajitvm/DevFlow-AI"><img src="assets/flagship-devflow.svg" width="100%" alt="DevFlow-AI — an AI teammate that reviews code, suggests fixes and runs tests on your own servers, for GitHub and GitLab"></a>
+<a href="https://github.com/vishwajitvm/DevFlow-AI"><img src="img/flagship-devflow.svg" width="100%" alt="DevFlow-AI — an AI teammate that reviews code, suggests fixes and runs tests on your own servers, for GitHub and GitLab"></a>
 
 <p>
-  <a href="https://hopline.onrender.com"><img src="assets/card-hopline.svg" width="49%" alt="Hopline — send big files straight between devices, encrypted. Live."></a>
-  <a href="https://github.com/vishwajitvm/Tallyko"><img src="assets/card-tallyko.svg" width="49%" alt="Tallyko — billing and ordering for restaurants and shops, works offline"></a>
+  <a href="https://hopline.onrender.com"><img src="img/card-hopline.svg" width="49%" alt="Hopline — send big files straight between devices, encrypted. Live."></a>
+  <a href="https://github.com/vishwajitvm/Tallyko"><img src="img/card-tallyko.svg" width="49%" alt="Tallyko — billing and ordering for restaurants and shops, works offline"></a>
 </p>
 <p>
-  <a href="https://github.com/vishwajitvm/RepoMind"><img src="assets/card-repomind.svg" width="49%" alt="RepoMind — ask any GitHub project a question, answers point to the exact file and line"></a>
-  <a href="https://github.com/vishwajitvm/LokTathya"><img src="assets/card-loktathya.svg" width="49%" alt="LokTathya — makes India's public information easier to find, check and understand"></a>
+  <a href="https://github.com/vishwajitvm/RepoMind"><img src="img/card-repomind.svg" width="49%" alt="RepoMind — ask any GitHub project a question, answers point to the exact file and line"></a>
+  <a href="https://github.com/vishwajitvm/LokTathya"><img src="img/card-loktathya.svg" width="49%" alt="LokTathya — makes India's public information easier to find, check and understand"></a>
 </p>
 <p>
-  <a href="https://github.com/vishwajitvm/OmniShell"><img src="assets/card-omnishell.svg" width="49%" alt="OmniShell — describe a task in plain English, it runs the steps once you approve"></a>
-  <a href="https://pypi.org/project/tracenest/"><img src="assets/card-tracenest.svg" width="49%" alt="TraceNest — a Python logging library that hides passwords and keys automatically"></a>
+  <a href="https://github.com/vishwajitvm/OmniShell"><img src="img/card-omnishell.svg" width="49%" alt="OmniShell — describe a task in plain English, it runs the steps once you approve"></a>
+  <a href="https://pypi.org/project/tracenest/"><img src="img/card-tracenest.svg" width="49%" alt="TraceNest — a Python logging library that hides passwords and keys automatically"></a>
 </p>
 
 <details>
@@ -124,7 +124,7 @@ My first role. I built three web apps:
 
 ## Skills
 
-<img src="assets/skills.svg" width="100%" alt="Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
+<img src="img/skills.svg" width="100%" alt="Frontend: React, Next.js, Angular, Vue, Astro, React Native, Electron, Tailwind CSS, Storybook. Backend: Python, FastAPI, Node.js, NestJS, Express, Laravel, PHP, GraphQL, REST, WebSockets, Celery. AI: LangChain, LangGraph, MCP, RAG, AI agents, LiteLLM, OpenAI, Gemini, Ollama, NumPy, Pandas. Databases: PostgreSQL, pgvector, Qdrant, MongoDB, MySQL, Redis, Prisma, MinIO. Security and testing: OAuth/OIDC, Microsoft Entra ID, Keycloak, JWT, RBAC, AES-256, pytest, Jest, Playwright. Cloud and DevOps: Docker, AWS, Azure, Traefik, GitHub Actions, GitLab CI, Prometheus, Grafana, Loki, OpenTelemetry.">
 
 <sub>Also: Git · Postman · Vite · Socket.io · Adobe Photoshop · Adobe Illustrator</sub>
 
@@ -146,12 +146,12 @@ My first role. I built three web apps:
 
 ## Contact
 
-<a href="mailto:vishwajitmall50@gmail.com"><img src="assets/contact.svg" width="100%" alt="Have a project in mind? Email vishwajitmall50@gmail.com — available for freelance and contract work, remote."></a>
+<a href="mailto:vishwajitmall50@gmail.com"><img src="img/contact.svg" width="100%" alt="Have a project in mind? Email vishwajitmall50@gmail.com — available for freelance and contract work, remote."></a>
 
 <p align="center">
-  <a href="mailto:vishwajitmall50@gmail.com"><img src="assets/btn-email.svg" alt="Email me"></a>
-  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://vishwajit-labs-web.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio"></a>
+  <a href="mailto:vishwajitmall50@gmail.com"><img src="img/btn-email.svg" alt="Email me"></a>
+  <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149"><img src="img/btn-linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://vishwajit-labs-web.vercel.app/"><img src="img/btn-portfolio.svg" alt="Portfolio"></a>
 </p>
 
 <p align="center">
