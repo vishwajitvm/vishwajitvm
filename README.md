@@ -9,23 +9,1502 @@
   <a href="#contact" title="Jump to contact"><img src="img/nav-contact.svg" alt="Contact"></a>
 </p>
 
-<a href="#-play-with-byte" title="That's Byte 🐶 He wanders around this page doing his own thing. Click to play with him!"><img src="img/pup-ball.svg" width="100%" alt="Byte the puppy playing with a ball"></a>
+<p align="center"><b>🐶 <a href="#-meet-byte">Meet Byte, my 3D puppy</a> · spin him, feed him, throw him a ball</b></p>
 
-### 🐶 Play with Byte
+## 🐶 Meet Byte
 
-<sub>That's <b>Byte</b>. He roams this page on his own random adventures. Click a button to play with him, or click him anywhere on the page to come back here.</sub>
+<sub><b>Byte is a real 3D puppy.</b> Click and drag him to spin him around, scroll to zoom. Then play with him below.</sub>
+
+```stl
+solid byte
+facet normal 0 0 -1
+outer loop
+vertex -12 -6 10
+vertex -12 6 10
+vertex 12 6 10
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -12 -6 10
+vertex 12 6 10
+vertex 12 -6 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -12 -6 22
+vertex 12 -6 22
+vertex 12 6 22
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -12 -6 22
+vertex 12 6 22
+vertex -12 6 22
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -12 -6 10
+vertex 12 -6 10
+vertex 12 -6 22
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -12 -6 10
+vertex 12 -6 22
+vertex -12 -6 22
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -12 6 10
+vertex -12 6 22
+vertex 12 6 22
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -12 6 10
+vertex 12 6 22
+vertex 12 6 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -12 -6 10
+vertex -12 -6 22
+vertex -12 6 22
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -12 -6 10
+vertex -12 6 22
+vertex -12 6 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 12 -6 10
+vertex 12 6 10
+vertex 12 6 22
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 12 -6 10
+vertex 12 6 22
+vertex 12 -6 22
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -11 -5.5 9
+vertex -11 5.5 9
+vertex -2 5.5 9
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -11 -5.5 9
+vertex -2 5.5 9
+vertex -2 -5.5 9
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -11 -5.5 10.5
+vertex -2 -5.5 10.5
+vertex -2 5.5 10.5
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -11 -5.5 10.5
+vertex -2 5.5 10.5
+vertex -11 5.5 10.5
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -11 -5.5 9
+vertex -2 -5.5 9
+vertex -2 -5.5 10.5
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -11 -5.5 9
+vertex -2 -5.5 10.5
+vertex -11 -5.5 10.5
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -11 5.5 9
+vertex -11 5.5 10.5
+vertex -2 5.5 10.5
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -11 5.5 9
+vertex -2 5.5 10.5
+vertex -2 5.5 9
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -11 -5.5 9
+vertex -11 -5.5 10.5
+vertex -11 5.5 10.5
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -11 -5.5 9
+vertex -11 5.5 10.5
+vertex -11 5.5 9
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -2 -5.5 9
+vertex -2 5.5 9
+vertex -2 5.5 10.5
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -2 -5.5 9
+vertex -2 5.5 10.5
+vertex -2 -5.5 10.5
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 9 -6.5 17
+vertex 9 6.5 17
+vertex 12 6.5 17
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 9 -6.5 17
+vertex 12 6.5 17
+vertex 12 -6.5 17
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 9 -6.5 22.5
+vertex 12 -6.5 22.5
+vertex 12 6.5 22.5
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 9 -6.5 22.5
+vertex 12 6.5 22.5
+vertex 9 6.5 22.5
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 9 -6.5 17
+vertex 12 -6.5 17
+vertex 12 -6.5 22.5
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 9 -6.5 17
+vertex 12 -6.5 22.5
+vertex 9 -6.5 22.5
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 9 6.5 17
+vertex 9 6.5 22.5
+vertex 12 6.5 22.5
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 9 6.5 17
+vertex 12 6.5 22.5
+vertex 12 6.5 17
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 9 -6.5 17
+vertex 9 -6.5 22.5
+vertex 9 6.5 22.5
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 9 -6.5 17
+vertex 9 6.5 22.5
+vertex 9 6.5 17
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 12 -6.5 17
+vertex 12 6.5 17
+vertex 12 6.5 22.5
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 12 -6.5 17
+vertex 12 6.5 22.5
+vertex 12 -6.5 22.5
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 10 -6 18
+vertex 10 6 18
+vertex 22 6 18
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 10 -6 18
+vertex 22 6 18
+vertex 22 -6 18
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 10 -6 31
+vertex 22 -6 31
+vertex 22 6 31
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 10 -6 31
+vertex 22 6 31
+vertex 10 6 31
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 10 -6 18
+vertex 22 -6 18
+vertex 22 -6 31
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 10 -6 18
+vertex 22 -6 31
+vertex 10 -6 31
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 10 6 18
+vertex 10 6 31
+vertex 22 6 31
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 10 6 18
+vertex 22 6 31
+vertex 22 6 18
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 10 -6 18
+vertex 10 -6 31
+vertex 10 6 31
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 10 -6 18
+vertex 10 6 31
+vertex 10 6 18
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 22 -6 18
+vertex 22 6 18
+vertex 22 6 31
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 22 -6 18
+vertex 22 6 31
+vertex 22 -6 31
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 22 -3.6 19
+vertex 22 3.6 19
+vertex 29 3.6 19
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 22 -3.6 19
+vertex 29 3.6 19
+vertex 29 -3.6 19
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 22 -3.6 25
+vertex 29 -3.6 25
+vertex 29 3.6 25
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 22 -3.6 25
+vertex 29 3.6 25
+vertex 22 3.6 25
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22 -3.6 19
+vertex 29 -3.6 19
+vertex 29 -3.6 25
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22 -3.6 19
+vertex 29 -3.6 25
+vertex 22 -3.6 25
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 22 3.6 19
+vertex 22 3.6 25
+vertex 29 3.6 25
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 22 3.6 19
+vertex 29 3.6 25
+vertex 29 3.6 19
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 22 -3.6 19
+vertex 22 -3.6 25
+vertex 22 3.6 25
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 22 -3.6 19
+vertex 22 3.6 25
+vertex 22 3.6 19
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 29 -3.6 19
+vertex 29 3.6 19
+vertex 29 3.6 25
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 29 -3.6 19
+vertex 29 3.6 25
+vertex 29 -3.6 25
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 29 -1.6 22.2
+vertex 29 1.6 22.2
+vertex 30.6 1.6 22.2
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 29 -1.6 22.2
+vertex 30.6 1.6 22.2
+vertex 30.6 -1.6 22.2
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 29 -1.6 25.2
+vertex 30.6 -1.6 25.2
+vertex 30.6 1.6 25.2
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 29 -1.6 25.2
+vertex 30.6 1.6 25.2
+vertex 29 1.6 25.2
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 29 -1.6 22.2
+vertex 30.6 -1.6 22.2
+vertex 30.6 -1.6 25.2
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 29 -1.6 22.2
+vertex 30.6 -1.6 25.2
+vertex 29 -1.6 25.2
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 29 1.6 22.2
+vertex 29 1.6 25.2
+vertex 30.6 1.6 25.2
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 29 1.6 22.2
+vertex 30.6 1.6 25.2
+vertex 30.6 1.6 22.2
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 29 -1.6 22.2
+vertex 29 -1.6 25.2
+vertex 29 1.6 25.2
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 29 -1.6 22.2
+vertex 29 1.6 25.2
+vertex 29 1.6 22.2
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 30.6 -1.6 22.2
+vertex 30.6 1.6 22.2
+vertex 30.6 1.6 25.2
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 30.6 -1.6 22.2
+vertex 30.6 1.6 25.2
+vertex 30.6 -1.6 25.2
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 22 1.8 26
+vertex 22 4.2 26
+vertex 22.9 4.2 26
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 22 1.8 26
+vertex 22.9 4.2 26
+vertex 22.9 1.8 26
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 22 1.8 28.4
+vertex 22.9 1.8 28.4
+vertex 22.9 4.2 28.4
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 22 1.8 28.4
+vertex 22.9 4.2 28.4
+vertex 22 4.2 28.4
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22 1.8 26
+vertex 22.9 1.8 26
+vertex 22.9 1.8 28.4
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22 1.8 26
+vertex 22.9 1.8 28.4
+vertex 22 1.8 28.4
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 22 4.2 26
+vertex 22 4.2 28.4
+vertex 22.9 4.2 28.4
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 22 4.2 26
+vertex 22.9 4.2 28.4
+vertex 22.9 4.2 26
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 22 1.8 26
+vertex 22 1.8 28.4
+vertex 22 4.2 28.4
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 22 1.8 26
+vertex 22 4.2 28.4
+vertex 22 4.2 26
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 22.9 1.8 26
+vertex 22.9 4.2 26
+vertex 22.9 4.2 28.4
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 22.9 1.8 26
+vertex 22.9 4.2 28.4
+vertex 22.9 1.8 28.4
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 22 -4.2 26
+vertex 22 -1.8 26
+vertex 22.9 -1.8 26
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 22 -4.2 26
+vertex 22.9 -1.8 26
+vertex 22.9 -4.2 26
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 22 -4.2 28.4
+vertex 22.9 -4.2 28.4
+vertex 22.9 -1.8 28.4
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 22 -4.2 28.4
+vertex 22.9 -1.8 28.4
+vertex 22 -1.8 28.4
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22 -4.2 26
+vertex 22.9 -4.2 26
+vertex 22.9 -4.2 28.4
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 22 -4.2 26
+vertex 22.9 -4.2 28.4
+vertex 22 -4.2 28.4
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 22 -1.8 26
+vertex 22 -1.8 28.4
+vertex 22.9 -1.8 28.4
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 22 -1.8 26
+vertex 22.9 -1.8 28.4
+vertex 22.9 -1.8 26
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 22 -4.2 26
+vertex 22 -4.2 28.4
+vertex 22 -1.8 28.4
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 22 -4.2 26
+vertex 22 -1.8 28.4
+vertex 22 -1.8 26
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 22.9 -4.2 26
+vertex 22.9 -1.8 26
+vertex 22.9 -1.8 28.4
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 22.9 -4.2 26
+vertex 22.9 -1.8 28.4
+vertex 22.9 -4.2 28.4
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 11.5 6 17
+vertex 11.5 8.2 17
+vertex 16.5 8.2 17
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 11.5 6 17
+vertex 16.5 8.2 17
+vertex 16.5 6 17
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 11.5 6 30
+vertex 16.5 6 30
+vertex 16.5 8.2 30
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 11.5 6 30
+vertex 16.5 8.2 30
+vertex 11.5 8.2 30
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 11.5 6 17
+vertex 16.5 6 17
+vertex 16.5 6 30
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 11.5 6 17
+vertex 16.5 6 30
+vertex 11.5 6 30
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 11.5 8.2 17
+vertex 11.5 8.2 30
+vertex 16.5 8.2 30
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 11.5 8.2 17
+vertex 16.5 8.2 30
+vertex 16.5 8.2 17
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 11.5 6 17
+vertex 11.5 6 30
+vertex 11.5 8.2 30
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 11.5 6 17
+vertex 11.5 8.2 30
+vertex 11.5 8.2 17
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 16.5 6 17
+vertex 16.5 8.2 17
+vertex 16.5 8.2 30
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 16.5 6 17
+vertex 16.5 8.2 30
+vertex 16.5 6 30
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 11.5 -8.2 17
+vertex 11.5 -6 17
+vertex 16.5 -6 17
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 11.5 -8.2 17
+vertex 16.5 -6 17
+vertex 16.5 -8.2 17
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 11.5 -8.2 30
+vertex 16.5 -8.2 30
+vertex 16.5 -6 30
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 11.5 -8.2 30
+vertex 16.5 -6 30
+vertex 11.5 -6 30
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 11.5 -8.2 17
+vertex 16.5 -8.2 17
+vertex 16.5 -8.2 30
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 11.5 -8.2 17
+vertex 16.5 -8.2 30
+vertex 11.5 -8.2 30
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 11.5 -6 17
+vertex 11.5 -6 30
+vertex 16.5 -6 30
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 11.5 -6 17
+vertex 16.5 -6 30
+vertex 16.5 -6 17
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 11.5 -8.2 17
+vertex 11.5 -8.2 30
+vertex 11.5 -6 30
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 11.5 -8.2 17
+vertex 11.5 -6 30
+vertex 11.5 -6 17
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 16.5 -8.2 17
+vertex 16.5 -6 17
+vertex 16.5 -6 30
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 16.5 -8.2 17
+vertex 16.5 -6 30
+vertex 16.5 -8.2 30
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 24 -1.5 16.5
+vertex 24 1.5 16.5
+vertex 27 1.5 16.5
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 24 -1.5 16.5
+vertex 27 1.5 16.5
+vertex 27 -1.5 16.5
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 24 -1.5 19
+vertex 27 -1.5 19
+vertex 27 1.5 19
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 24 -1.5 19
+vertex 27 1.5 19
+vertex 24 1.5 19
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 24 -1.5 16.5
+vertex 27 -1.5 16.5
+vertex 27 -1.5 19
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 24 -1.5 16.5
+vertex 27 -1.5 19
+vertex 24 -1.5 19
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 24 1.5 16.5
+vertex 24 1.5 19
+vertex 27 1.5 19
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 24 1.5 16.5
+vertex 27 1.5 19
+vertex 27 1.5 16.5
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 24 -1.5 16.5
+vertex 24 -1.5 19
+vertex 24 1.5 19
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 24 -1.5 16.5
+vertex 24 1.5 19
+vertex 24 1.5 16.5
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 27 -1.5 16.5
+vertex 27 1.5 16.5
+vertex 27 1.5 19
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 27 -1.5 16.5
+vertex 27 1.5 19
+vertex 27 -1.5 19
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -10.5 1.5 0
+vertex -10.5 5.5 0
+vertex -5.5 5.5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -10.5 1.5 0
+vertex -5.5 5.5 0
+vertex -5.5 1.5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -10.5 1.5 10
+vertex -5.5 1.5 10
+vertex -5.5 5.5 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -10.5 1.5 10
+vertex -5.5 5.5 10
+vertex -10.5 5.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -10.5 1.5 0
+vertex -5.5 1.5 0
+vertex -5.5 1.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -10.5 1.5 0
+vertex -5.5 1.5 10
+vertex -10.5 1.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -10.5 5.5 0
+vertex -10.5 5.5 10
+vertex -5.5 5.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -10.5 5.5 0
+vertex -5.5 5.5 10
+vertex -5.5 5.5 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -10.5 1.5 0
+vertex -10.5 1.5 10
+vertex -10.5 5.5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -10.5 1.5 0
+vertex -10.5 5.5 10
+vertex -10.5 5.5 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -5.5 1.5 0
+vertex -5.5 5.5 0
+vertex -5.5 5.5 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -5.5 1.5 0
+vertex -5.5 5.5 10
+vertex -5.5 1.5 10
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -10.5 -5.5 0
+vertex -10.5 -1.5 0
+vertex -5.5 -1.5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -10.5 -5.5 0
+vertex -5.5 -1.5 0
+vertex -5.5 -5.5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -10.5 -5.5 10
+vertex -5.5 -5.5 10
+vertex -5.5 -1.5 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -10.5 -5.5 10
+vertex -5.5 -1.5 10
+vertex -10.5 -1.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -10.5 -5.5 0
+vertex -5.5 -5.5 0
+vertex -5.5 -5.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -10.5 -5.5 0
+vertex -5.5 -5.5 10
+vertex -10.5 -5.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -10.5 -1.5 0
+vertex -10.5 -1.5 10
+vertex -5.5 -1.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -10.5 -1.5 0
+vertex -5.5 -1.5 10
+vertex -5.5 -1.5 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -10.5 -5.5 0
+vertex -10.5 -5.5 10
+vertex -10.5 -1.5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -10.5 -5.5 0
+vertex -10.5 -1.5 10
+vertex -10.5 -1.5 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -5.5 -5.5 0
+vertex -5.5 -1.5 0
+vertex -5.5 -1.5 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -5.5 -5.5 0
+vertex -5.5 -1.5 10
+vertex -5.5 -5.5 10
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 5 1.5 0
+vertex 5 5.5 0
+vertex 10 5.5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 5 1.5 0
+vertex 10 5.5 0
+vertex 10 1.5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 5 1.5 10
+vertex 10 1.5 10
+vertex 10 5.5 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 5 1.5 10
+vertex 10 5.5 10
+vertex 5 5.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 5 1.5 0
+vertex 10 1.5 0
+vertex 10 1.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 5 1.5 0
+vertex 10 1.5 10
+vertex 5 1.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 5 5.5 0
+vertex 5 5.5 10
+vertex 10 5.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 5 5.5 0
+vertex 10 5.5 10
+vertex 10 5.5 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 5 1.5 0
+vertex 5 1.5 10
+vertex 5 5.5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 5 1.5 0
+vertex 5 5.5 10
+vertex 5 5.5 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 10 1.5 0
+vertex 10 5.5 0
+vertex 10 5.5 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 10 1.5 0
+vertex 10 5.5 10
+vertex 10 1.5 10
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 5 -5.5 0
+vertex 5 -1.5 0
+vertex 10 -1.5 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 5 -5.5 0
+vertex 10 -1.5 0
+vertex 10 -5.5 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 5 -5.5 10
+vertex 10 -5.5 10
+vertex 10 -1.5 10
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 5 -5.5 10
+vertex 10 -1.5 10
+vertex 5 -1.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 5 -5.5 0
+vertex 10 -5.5 0
+vertex 10 -5.5 10
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 5 -5.5 0
+vertex 10 -5.5 10
+vertex 5 -5.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 5 -1.5 0
+vertex 5 -1.5 10
+vertex 10 -1.5 10
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 5 -1.5 0
+vertex 10 -1.5 10
+vertex 10 -1.5 0
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 5 -5.5 0
+vertex 5 -5.5 10
+vertex 5 -1.5 10
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 5 -5.5 0
+vertex 5 -1.5 10
+vertex 5 -1.5 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 10 -5.5 0
+vertex 10 -1.5 0
+vertex 10 -1.5 10
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 10 -5.5 0
+vertex 10 -1.5 10
+vertex 10 -5.5 10
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -18 -1.5 19
+vertex -18 1.5 19
+vertex -12 1.5 19
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -18 -1.5 19
+vertex -12 1.5 19
+vertex -12 -1.5 19
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -18 -1.5 22
+vertex -12 -1.5 22
+vertex -12 1.5 22
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -18 -1.5 22
+vertex -12 1.5 22
+vertex -18 1.5 22
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -18 -1.5 19
+vertex -12 -1.5 19
+vertex -12 -1.5 22
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -18 -1.5 19
+vertex -12 -1.5 22
+vertex -18 -1.5 22
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -18 1.5 19
+vertex -18 1.5 22
+vertex -12 1.5 22
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -18 1.5 19
+vertex -12 1.5 22
+vertex -12 1.5 19
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -18 -1.5 19
+vertex -18 -1.5 22
+vertex -18 1.5 22
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -18 -1.5 19
+vertex -18 1.5 22
+vertex -18 1.5 19
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -12 -1.5 19
+vertex -12 1.5 19
+vertex -12 1.5 22
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -12 -1.5 19
+vertex -12 1.5 22
+vertex -12 -1.5 22
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -21 -1.5 21
+vertex -21 1.5 21
+vertex -17 1.5 21
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex -21 -1.5 21
+vertex -17 1.5 21
+vertex -17 -1.5 21
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -21 -1.5 29
+vertex -17 -1.5 29
+vertex -17 1.5 29
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex -21 -1.5 29
+vertex -17 1.5 29
+vertex -21 1.5 29
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -21 -1.5 21
+vertex -17 -1.5 21
+vertex -17 -1.5 29
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex -21 -1.5 21
+vertex -17 -1.5 29
+vertex -21 -1.5 29
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -21 1.5 21
+vertex -21 1.5 29
+vertex -17 1.5 29
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex -21 1.5 21
+vertex -17 1.5 29
+vertex -17 1.5 21
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -21 -1.5 21
+vertex -21 -1.5 29
+vertex -21 1.5 29
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex -21 -1.5 21
+vertex -21 1.5 29
+vertex -21 1.5 21
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -17 -1.5 21
+vertex -17 1.5 21
+vertex -17 1.5 29
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex -17 -1.5 21
+vertex -17 1.5 29
+vertex -17 -1.5 29
+endloop
+endfacet
+endsolid byte
+```
 
 <details>
 <summary><b>🦴 Give Byte a treat</b></summary>
-<img src="img/pup-treat.svg" width="100%" alt="Byte catches a treat and says thank you" title="Good boy, Byte!">
+
+> 🐶💨 *Byte zooms over…* **CHOMP!** 🦴 → 😋
+> "Thank you! 💖" He does a happy little spin. 🌀
+
+<details>
+<summary>🦴 Give him another one</summary>
+
+> 🐶 Byte looks at the treat… then at you… 🤔
+> He buries it under the **[Skills](#skills)** section for later. 🕳️🦴
+> *A planner. Just like his human, who plans before he builds.*
+
 </details>
 <details>
-<summary><b>🎾 Throw Byte the ball</b></summary>
-<img src="img/pup-fetch.svg" width="100%" alt="You throw the ball and Byte fetches it" title="Fetch!">
+<summary>🛑 That's enough treats, Byte</summary>
+
+> 🥺 *Puppy eyes: activated.* Byte respects your decision. Mostly.
+
 </details>
+</details>
+
+<details>
+<summary><b>🎾 Throw the ball</b></summary>
+
+> 🎾 ➡️ ➡️ ➡️ 🐕💨 **Got it!**
+> Byte runs back and drops it at your feet. "Again! Again!" 🐾
+
+<details>
+<summary>🎾 Throw it really, really far</summary>
+
+> 🎾✈️ … it lands somewhere in **[Projects](#projects)**.
+> Byte comes back carrying **DevFlow-AI** instead. "Look what I found! 🤖"
+
+</details>
+</details>
+
 <details>
 <summary><b>✋ Pet Byte</b></summary>
-<img src="img/pup-pet.svg" width="100%" alt="You pet Byte and he loves it" title="Byte loves you now 🥰">
+
+> 🐶 → 🥰 Byte rolls over for belly rubs.
+> ❤️❤️❤️ *Friendship level: MAX*
+
+<details>
+<summary>🐾 Ask Byte to shake hands</summary>
+
+> 🐾🤝 Byte offers his paw. "Nice to meet you! Now go say hi to my human → **[Contact](#contact)**"
+
+</details>
+</details>
+
+<details>
+<summary><b>🗣️ Ask Byte about his human</b></summary>
+
+> 🐶 "Woof! He builds the engines behind apps — servers, databases, APIs — and teaches them to think with AI.
+> 5+ years, 24 projects, one Outstanding Performance Award… and one very good boy. (That's me.)"
+
 </details>
 
 ## About me
@@ -49,17 +1528,95 @@
   <a href="https://www.buymeacoffee.com/vishwajitm7" title="Buy me a coffee ☕"><img src="img/social-coffee.svg" width="19%" alt="Buy Me a Coffee: vishwajitm7"></a>
 </p>
 
-<a href="#-play-with-byte" title="Byte is on mail duty today ✉️ Click to play with him!"><img src="img/pup-mail.svg" width="100%" alt="Byte the puppy delivering the mail"></a>
-
 ## What I can do for you
 
 <img src="img/services.svg" width="100%" alt="AI assistants and chatbots · Backends and APIs · AI automation and agents · Secure business platforms" title="AI assistants · Backends &amp; APIs · AI automation · Secure platforms">
 
-<a href="#-play-with-byte" title="Byte ships to production on Fridays 😅 Click to play with him!"><img src="img/pup-laptop.svg" width="100%" alt="Byte the puppy shipping code on a laptop"></a>
-
 ## Experience
 
 <img src="img/experience.svg" width="100%" alt="BluBrandz Technologies, Aug 2021 – Jun 2022 · WebReinvent, Jul – Oct 2022 · Bee Logical Software Solutions, Nov 2022 – Jun 2026 (Outstanding Performance Award, Nov 2024) · SPNX, Oct 2026 – now" title="5+ years, 4 companies. Click a company below for details.">
+
+<sub>🗺️ <b>Where I've worked, on a live map.</b> Drag to move, scroll to zoom, click a pin for the role and dates.</sub>
+
+```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.391,
+     28.5355
+    ]
+   },
+   "properties": {
+    "title": "SPNX (now)",
+    "role": "Backend Developer · FLO, an EU VAT platform",
+    "dates": "Oct 2026 – now",
+    "marker-color": "#7C3AED",
+    "marker-symbol": "star",
+    "marker-size": "large"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.8567,
+     18.5204
+    ]
+   },
+   "properties": {
+    "title": "Bee Logical Software Solutions",
+    "role": "Full Stack Developer · 🏆 Outstanding Performance Award 2024",
+    "dates": "Nov 2022 – Jun 2026",
+    "marker-color": "#059669",
+    "marker-symbol": "building",
+    "marker-size": "medium"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.209,
+     28.6139
+    ]
+   },
+   "properties": {
+    "title": "WebReinvent",
+    "role": "Software Developer · VaahCMS",
+    "dates": "Jul – Oct 2022",
+    "marker-color": "#0284C7",
+    "marker-symbol": "building",
+    "marker-size": "medium"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.1,
+     28.65
+    ]
+   },
+   "properties": {
+    "title": "BluBrandz Technologies",
+    "role": "Full Stack Developer · my first role",
+    "dates": "Aug 2021 – Jun 2022",
+    "marker-color": "#4F46E5",
+    "marker-symbol": "building",
+    "marker-size": "medium"
+   }
+  }
+ ]
+}
+```
 
 <sub>Click a company to see what I did there.</sub>
 
@@ -123,8 +1680,6 @@ My first role. I built three web apps:
 
 </details>
 
-<a href="#-play-with-byte" title="Byte is very proud of that award 🏆 Click to play with him!"><img src="img/pup-trophy.svg" width="100%" alt="Byte the puppy celebrating with a trophy"></a>
-
 ## Projects
 
 <sub>Things I've built on my own. Click any card to open it.</sub>
@@ -144,6 +1699,12 @@ My first role. I built three web apps:
   <a href="https://pypi.org/project/tracenest/" title="Open TraceNest on PyPI"><img src="img/card-tracenest.svg" width="49%" alt="TraceNest — a Python logging library that hides passwords and keys automatically"></a>
 </p>
 
+<sub>Try TraceNest yourself. Hover the box below and click the copy button:</sub>
+
+```bash
+pip install tracenest
+```
+
 <details>
 <summary><b>5 more AI projects</b></summary>
 <br>
@@ -157,8 +1718,6 @@ My first role. I built three web apps:
 | **FitTrack-AI** | Snap a photo of a meal and get its nutrition, checked against USDA data. | Next.js · FastAPI |
 
 </details>
-
-<a href="#-play-with-byte" title="Byte found a bone 🦴 Click to play with him!"><img src="img/pup-bone.svg" width="100%" alt="Byte the puppy finding a bone and sniffing a flower"></a>
 
 ## Skills
 
@@ -258,8 +1817,6 @@ My first role. I built three web apps:
   <a href="https://www.adobe.com/products/illustrator.html" title="Illustrator — Logos and vector graphics"><img src="img/sk/illustrator.svg" alt="Illustrator"></a>
 </p>
 
-<a href="#-play-with-byte" title="Byte runs on coffee too ☕ Click to play with him!"><img src="img/pup-coffee.svg" width="100%" alt="Byte the puppy sniffing a coffee mug"></a>
-
 ## Writing
 
 - [Getting Started with LangChain: A Beginner's Guide](https://vishwajitvm.hashnode.dev/getting-started-with-langchain-a-beginners-guide)
@@ -285,6 +1842,12 @@ My first role. I built three web apps:
   <a href="https://www.linkedin.com/in/vishwajit-vm-179a61149" title="Connect on LinkedIn"><img src="img/btn-linkedin.svg" alt="LinkedIn"></a>
   <a href="https://vishwajit-labs-web.vercel.app/" title="Visit my portfolio"><img src="img/btn-portfolio.svg" alt="Portfolio"></a>
 </p>
+
+<sub>📋 Hover the box and click the copy button to grab my email:</sub>
+
+```text
+vishwajitmall50@gmail.com
+```
 
 <p align="center"><sub>All my profiles are under <a href="#find-me-online">Find me online</a>.</sub></p>
 
