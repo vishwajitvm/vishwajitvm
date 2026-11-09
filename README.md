@@ -1,6 +1,6 @@
 <a href="https://vishwajit-labs-web.vercel.app"><picture><source media="(min-width: 768px)" srcset="img/site/hero-wide.svg"><img src="img/site/hero-phone.svg" width="100%" alt="Vishwajit VM — I build backends that don’t break. Backend &amp; AI engineer in New Delhi with 5+ years of APIs, databases, queues and AI agents. Available for freelance and contract work."></picture></a>
 
-<img src="img/site/marquee-wide.svg" width="100%" alt="Python · FastAPI · NestJS · PostgreSQL · Redis · Docker · LangGraph · MCP · Qdrant · Celery · Node.js · React">
+<picture><source media="(min-width: 768px)" srcset="img/site/marquee-wide.svg"><img src="img/site/marquee-phone.svg" width="100%" alt="Python · FastAPI · NestJS · PostgreSQL · Redis · Docker · LangGraph · MCP · Qdrant · Celery · Node.js · React"></picture>
 
 <a href="https://vishwajit-labs-web.vercel.app/#about"><picture><source media="(min-width: 768px)" srcset="img/site/about-wide.svg"><img src="img/site/about-phone.svg" width="100%" alt="About: I’m Vishwajit VM, a backend &amp; AI engineer from New Delhi. 5+ years shipping to production. Right now: Backend Developer at SPNX, sole backend for an EU VAT platform (244 endpoints, 3/3 security audits passed). Outstanding Performance Award, Bee Logical, Nov 2024. Open to freelance and contract work."></picture></a>
 
