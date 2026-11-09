@@ -37,7 +37,7 @@ I'm the only backend developer on **FLO**, a platform that handles **EU VAT (tax
 - Set up Microsoft sign-in and permissions (4 roles, 21 permissions)
 - Passed **3 rounds of independent security testing**
 
-`NestJS` `TypeScript` `PostgreSQL` `Prisma` `Microsoft Entra ID` `Azure` `Jest`
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `Microsoft Entra ID` `Azure` `Jest`
 
 </details>
 
@@ -91,20 +91,20 @@ Things I've built on my own.
 **⭐ [DevFlow-AI](https://github.com/vishwajitvm/DevFlow-AI)**: an AI teammate that reviews code, suggests fixes and runs tests on your own servers, for GitHub and GitLab. 132 API endpoints, 90 free AI models from 10 providers, 502 automated tests.<br>
 `FastAPI` `Next.js` `PostgreSQL` `Redis` `Celery` `MCP` `Docker`
 
-**📦 [Hopline](https://hopline.onrender.com)** · [live](https://hopline.onrender.com): send big files straight between devices, encrypted end to end, with no cloud storage in the middle. 10 GiB in 56.8 s.<br>
-`Node.js` `React` `Electron` `WebRTC` `AES-256`
+**📦 [Hopline](https://hopline.onrender.com)** (live demo): send big files straight between devices, encrypted end to end, with no cloud storage in the middle. 10 GiB in 56.8 s.<br>
+`Node.js` `React` `Electron` `WebRTC` `AES‑256`
 
 **🧾 [Tallyko](https://github.com/vishwajitvm/Tallyko)**: billing and ordering for restaurants and shops that keeps working offline.<br>
-`FastAPI` `React Native` `PostgreSQL` `Redis` `MinIO`
+`FastAPI` `React Native` `PostgreSQL` `Redis` `MinIO`
 
 **🧠 [RepoMind](https://github.com/vishwajitvm/RepoMind)**: ask any GitHub project a question; answers point to the exact file and line.<br>
 `LangGraph` `Qdrant` `React`
 
-**🇮🇳 [LokTathya](https://github.com/vishwajitvm/LokTathya)**: makes India's public information easier to find, check and understand.<br>
+**🔎 [LokTathya](https://github.com/vishwajitvm/LokTathya)**: makes India's public information easier to find, check and understand.<br>
 `Next.js` `FastAPI` `MinIO`
 
 **💻 [OmniShell](https://github.com/vishwajitvm/OmniShell)**: describe a task in plain English; it runs the steps once you approve them.<br>
-`Python` `LiteLLM` `AI agents`
+`Python` `LiteLLM` `AI agents`
 
 **🪵 [TraceNest](https://pypi.org/project/tracenest/)**: a zero-dependency Python logging library that hides passwords and keys automatically. Try it: `pip install tracenest`<br>
 `Python` `PyPI`
@@ -127,19 +127,19 @@ Things I've built on my own.
 `Python` `FastAPI` `Node.js` `NestJS` `Express` `Laravel` `PHP` `GraphQL` `REST` `WebSockets` `Celery`
 
 **🧠 AI & LLMs**<br>
-`LangChain` `LangGraph` `MCP` `RAG` `AI agents` `LiteLLM` `OpenAI` `Gemini` `Ollama` `NumPy` `Pandas`
+`LangChain` `LangGraph` `MCP` `RAG` `AI agents` `LiteLLM` `OpenAI` `Gemini` `Ollama` `NumPy` `Pandas`
 
 **🗄️ Databases & storage**<br>
 `PostgreSQL` `pgvector` `Qdrant` `MongoDB` `MySQL` `Redis` `Prisma` `MinIO`
 
 **🔐 Security & testing**<br>
-`OAuth / OIDC` `Microsoft Entra ID` `Keycloak` `JWT` `RBAC` `AES-256` `pytest` `Jest` `Playwright`
+`OAuth / OIDC` `Microsoft Entra ID` `Keycloak` `JWT` `RBAC` `AES‑256` `pytest` `Jest` `Playwright`
 
 **☁️ Cloud, DevOps & monitoring**<br>
-`Docker` `AWS` `Azure` `Traefik` `GitHub Actions` `GitLab CI` `Prometheus` `Grafana` `Loki` `OpenTelemetry`
+`Docker` `AWS` `Azure` `Traefik` `GitHub Actions` `GitLab CI` `Prometheus` `Grafana` `Loki` `OpenTelemetry`
 
 **🎨 Frontend & apps**<br>
-`React` `Next.js` `Angular` `Vue` `Astro` `React Native` `Electron` `Tailwind CSS` `Storybook`
+`React` `Next.js` `Angular` `Vue` `Astro` `React Native` `Electron` `Tailwind CSS` `Storybook`
 
 **🧪 Tools**<br>
 `Git` `GitHub` `Postman` `Vite` `Socket.io` `Vercel` `Photoshop` `Illustrator`
