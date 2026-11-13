@@ -28,7 +28,7 @@
 
 ## 👋 About me
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/glance-dark.svg"><img src="assets/glance-light.svg" width="100%" alt="5+ years shipping to production · 31 projects · own products · open to work"></picture></p>
+<p align="center"><a href="https://vishwajit-labs-web.vercel.app#gh-dark-mode-only"><img src="assets/glance-dark.svg" width="100%" alt="5+ years shipping to production · 31 projects · own products · open to work"></a><a href="https://vishwajit-labs-web.vercel.app#gh-light-mode-only"><img src="assets/glance-light.svg" width="100%" alt="5+ years shipping to production · 31 projects · own products · open to work"></a></p>
 
 ### I build the backends that products quietly depend on.
 
@@ -79,7 +79,7 @@ Contracts first (OpenAPI, typed clients), boring tech where it counts (PostgreSQ
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/devflow-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/devflow-ai-dark.svg"><img src="assets/cards/devflow-ai-light.svg" width="100%" alt="DevFlow-AI: AI code review, auto-fix &amp; CI/CD — on your own servers"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/devflow-ai#gh-dark-mode-only"><img src="assets/cards/devflow-ai-dark.svg" width="100%" alt="DevFlow-AI: AI code review, auto-fix &amp; CI/CD — on your own servers"></a><a href="https://vishwajit-labs-web.vercel.app/projects/devflow-ai#gh-light-mode-only"><img src="assets/cards/devflow-ai-light.svg" width="100%" alt="DevFlow-AI: AI code review, auto-fix &amp; CI/CD — on your own servers"></a>
 <p><a href="https://github.com/vishwajitvm/DevFlow-AI"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/devflow-ai"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -93,7 +93,7 @@ DevFlow-AI is a self-hosted platform that reviews pull requests with AI, propose
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/eu-vat-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/eu-vat-platform-dark.svg"><img src="assets/cards/eu-vat-platform-light.svg" width="100%" alt="EU VAT Registration Platform: Sole backend developer · live in production"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/eu-vat-platform#gh-dark-mode-only"><img src="assets/cards/eu-vat-platform-dark.svg" width="100%" alt="EU VAT Registration Platform: Sole backend developer · live in production"></a><a href="https://vishwajit-labs-web.vercel.app/projects/eu-vat-platform#gh-light-mode-only"><img src="assets/cards/eu-vat-platform-light.svg" width="100%" alt="EU VAT Registration Platform: Sole backend developer · live in production"></a>
 <p><a href="https://fsvat.spnx.ai/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/eu-vat-platform"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -109,7 +109,7 @@ A staff workspace and client portal that runs EU VAT registrations for overseas 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/hopline"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/hopline-dark.svg"><img src="assets/cards/hopline-light.svg" width="100%" alt="Hopline: Encrypted peer-to-peer file transfer"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/hopline#gh-dark-mode-only"><img src="assets/cards/hopline-dark.svg" width="100%" alt="Hopline: Encrypted peer-to-peer file transfer"></a><a href="https://vishwajit-labs-web.vercel.app/projects/hopline#gh-light-mode-only"><img src="assets/cards/hopline-light.svg" width="100%" alt="Hopline: Encrypted peer-to-peer file transfer"></a>
 <p><a href="https://hopline.onrender.com"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://github.com/vishwajitvm/Hopline"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/hopline"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -123,7 +123,7 @@ Hopline sends files directly between devices — browser, desktop and command li
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-dark.svg"><img src="assets/cards/strutvane-light.svg" width="100%" alt="Strutvane: TypeScript framework &amp; npm ecosystem for B2B apps"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane#gh-dark-mode-only"><img src="assets/cards/strutvane-dark.svg" width="100%" alt="Strutvane: TypeScript framework &amp; npm ecosystem for B2B apps"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane#gh-light-mode-only"><img src="assets/cards/strutvane-light.svg" width="100%" alt="Strutvane: TypeScript framework &amp; npm ecosystem for B2B apps"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-vm.github.io/strutvane-docs/"><img src="https://img.shields.io/badge/Docs-D97706?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs"></a> <a href="https://www.npmjs.com/~vishwajitjitvm"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -139,7 +139,7 @@ Strutvane is an open-source TypeScript framework and package ecosystem for enter
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/tracenest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/tracenest-dark.svg"><img src="assets/cards/tracenest-light.svg" width="100%" alt="TraceNest: Python logging SDK, published on PyPI"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/tracenest#gh-dark-mode-only"><img src="assets/cards/tracenest-dark.svg" width="100%" alt="TraceNest: Python logging SDK, published on PyPI"></a><a href="https://vishwajit-labs-web.vercel.app/projects/tracenest#gh-light-mode-only"><img src="assets/cards/tracenest-light.svg" width="100%" alt="TraceNest: Python logging SDK, published on PyPI"></a>
 <p><a href="https://github.com/vishwajitvm/TraceNest"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://pypi.org/project/tracenest/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/tracenest"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -153,7 +153,7 @@ A zero-dependency, thread-safe logging library for Python and FastAPI: rotation,
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/repomind"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/repomind-dark.svg"><img src="assets/cards/repomind-light.svg" width="100%" alt="RepoMind: Ask any repo — get answers with file &amp; line citations"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/repomind#gh-dark-mode-only"><img src="assets/cards/repomind-dark.svg" width="100%" alt="RepoMind: Ask any repo — get answers with file &amp; line citations"></a><a href="https://vishwajit-labs-web.vercel.app/projects/repomind#gh-light-mode-only"><img src="assets/cards/repomind-light.svg" width="100%" alt="RepoMind: Ask any repo — get answers with file &amp; line citations"></a>
 <p><a href="https://github.com/vishwajitvm/RepoMind"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/repomind"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -184,7 +184,7 @@ An assistant that answers questions about any GitHub repository in plain English
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/tallyko"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/tallyko-dark.svg"><img src="assets/cards/tallyko-light.svg" width="100%" alt="Tallyko: Multi-tenant restaurant &amp; retail POS"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/tallyko#gh-dark-mode-only"><img src="assets/cards/tallyko-dark.svg" width="100%" alt="Tallyko: Multi-tenant restaurant &amp; retail POS"></a><a href="https://vishwajit-labs-web.vercel.app/projects/tallyko#gh-light-mode-only"><img src="assets/cards/tallyko-light.svg" width="100%" alt="Tallyko: Multi-tenant restaurant &amp; retail POS"></a>
 <p><a href="https://github.com/vishwajitvm/Tallyko"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/tallyko"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -198,7 +198,7 @@ A point-of-sale platform where many restaurants and retail stores run billing, i
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/agenthive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/agenthive-dark.svg"><img src="assets/cards/agenthive-light.svg" width="100%" alt="AgentHive: Multi-agent orchestration platform"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/agenthive#gh-dark-mode-only"><img src="assets/cards/agenthive-dark.svg" width="100%" alt="AgentHive: Multi-agent orchestration platform"></a><a href="https://vishwajit-labs-web.vercel.app/projects/agenthive#gh-light-mode-only"><img src="assets/cards/agenthive-light.svg" width="100%" alt="AgentHive: Multi-agent orchestration platform"></a>
 <p><a href="https://github.com/vishwajitvm/AgentHive"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/agenthive"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -214,7 +214,7 @@ A platform for building AI agents that reason step by step, decide which tool to
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/tenantmind-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/tenantmind-ai-dark.svg"><img src="assets/cards/tenantmind-ai-light.svg" width="100%" alt="TenantMind-AI: Multi-tenant AI for property management"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/tenantmind-ai#gh-dark-mode-only"><img src="assets/cards/tenantmind-ai-dark.svg" width="100%" alt="TenantMind-AI: Multi-tenant AI for property management"></a><a href="https://vishwajit-labs-web.vercel.app/projects/tenantmind-ai#gh-light-mode-only"><img src="assets/cards/tenantmind-ai-light.svg" width="100%" alt="TenantMind-AI: Multi-tenant AI for property management"></a>
 <p><a href="https://github.com/vishwajitvm/TenantMind-AI"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/tenantmind-ai"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -228,7 +228,7 @@ An AI platform that lets property-management teams ask questions about lease doc
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/policybot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/policybot-dark.svg"><img src="assets/cards/policybot-light.svg" width="100%" alt="PolicyBot: RAG Q&amp;A over internal documents"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/policybot#gh-dark-mode-only"><img src="assets/cards/policybot-dark.svg" width="100%" alt="PolicyBot: RAG Q&amp;A over internal documents"></a><a href="https://vishwajit-labs-web.vercel.app/projects/policybot#gh-light-mode-only"><img src="assets/cards/policybot-light.svg" width="100%" alt="PolicyBot: RAG Q&amp;A over internal documents"></a>
 <p><a href="https://github.com/vishwajitvm/PolicyBot"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/policybot"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -244,7 +244,7 @@ A Q&A system that answers natural-language questions about internal documents by
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/omnishell"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/omnishell-dark.svg"><img src="assets/cards/omnishell-light.svg" width="100%" alt="OmniShell: Plain English → OS workflows, with human approval"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/omnishell#gh-dark-mode-only"><img src="assets/cards/omnishell-dark.svg" width="100%" alt="OmniShell: Plain English → OS workflows, with human approval"></a><a href="https://vishwajit-labs-web.vercel.app/projects/omnishell#gh-light-mode-only"><img src="assets/cards/omnishell-light.svg" width="100%" alt="OmniShell: Plain English → OS workflows, with human approval"></a>
 <p><a href="https://github.com/vishwajitvm/OmniShell"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/omnishell"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -258,7 +258,7 @@ A service that turns plain-English requests into operating-system workflows on L
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/loktathya"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/loktathya-dark.svg"><img src="assets/cards/loktathya-light.svg" width="100%" alt="LokTathya: Civic data platform for India"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/loktathya#gh-dark-mode-only"><img src="assets/cards/loktathya-dark.svg" width="100%" alt="LokTathya: Civic data platform for India"></a><a href="https://vishwajit-labs-web.vercel.app/projects/loktathya#gh-light-mode-only"><img src="assets/cards/loktathya-light.svg" width="100%" alt="LokTathya: Civic data platform for India"></a>
 <p><a href="https://github.com/vishwajitvm/LokTathya"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/loktathya"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -274,7 +274,7 @@ A civic data platform for India built on maps and public data — making public 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/fittrack-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/fittrack-ai-dark.svg"><img src="assets/cards/fittrack-ai-light.svg" width="100%" alt="FitTrack-AI: Nutrition from a photo of your meal"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/fittrack-ai#gh-dark-mode-only"><img src="assets/cards/fittrack-ai-dark.svg" width="100%" alt="FitTrack-AI: Nutrition from a photo of your meal"></a><a href="https://vishwajit-labs-web.vercel.app/projects/fittrack-ai#gh-light-mode-only"><img src="assets/cards/fittrack-ai-light.svg" width="100%" alt="FitTrack-AI: Nutrition from a photo of your meal"></a>
 <p><a href="https://github.com/vishwajitvm/FitTrack-AI"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/fittrack-ai"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -298,7 +298,7 @@ Take a photo of a meal and get its nutrition — with values grounded in real fo
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-framework"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-framework-dark.svg"><img src="assets/cards/strutvane-framework-light.svg" width="100%" alt="Strutvane Framework: Backend &amp; database core: models, migrations, CRUD API, OpenAPI"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-framework#gh-dark-mode-only"><img src="assets/cards/strutvane-framework-dark.svg" width="100%" alt="Strutvane Framework: Backend &amp; database core: models, migrations, CRUD API, OpenAPI"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-framework#gh-light-mode-only"><img src="assets/cards/strutvane-framework-light.svg" width="100%" alt="Strutvane Framework: Backend &amp; database core: models, migrations, CRUD API, OpenAPI"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane-framework"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-vm.github.io/strutvane-docs/packages/framework/"><img src="https://img.shields.io/badge/Docs-D97706?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs"></a> <a href="https://www.npmjs.com/package/@strutvane/framework"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-framework"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -312,7 +312,7 @@ Take a photo of a meal and get its nutrition — with values grounded in real fo
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-auth"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-auth-dark.svg"><img src="assets/cards/strutvane-auth-light.svg" width="100%" alt="Strutvane Auth: Identity, RBAC/ABAC compiled to SQL, multi-tenancy &amp; audit"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-auth#gh-dark-mode-only"><img src="assets/cards/strutvane-auth-dark.svg" width="100%" alt="Strutvane Auth: Identity, RBAC/ABAC compiled to SQL, multi-tenancy &amp; audit"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-auth#gh-light-mode-only"><img src="assets/cards/strutvane-auth-light.svg" width="100%" alt="Strutvane Auth: Identity, RBAC/ABAC compiled to SQL, multi-tenancy &amp; audit"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane-auth"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-vm.github.io/strutvane-docs/packages/auth/"><img src="https://img.shields.io/badge/Docs-D97706?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs"></a> <a href="https://www.npmjs.com/package/@strutvane/auth"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-auth"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -328,7 +328,7 @@ Take a photo of a meal and get its nutrition — with values grounded in real fo
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-ui"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-ui-dark.svg"><img src="assets/cards/strutvane-ui-light.svg" width="100%" alt="Strutvane UI: Metadata-driven React UI for Strutvane or any OpenAPI backend"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-ui#gh-dark-mode-only"><img src="assets/cards/strutvane-ui-dark.svg" width="100%" alt="Strutvane UI: Metadata-driven React UI for Strutvane or any OpenAPI backend"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-ui#gh-light-mode-only"><img src="assets/cards/strutvane-ui-light.svg" width="100%" alt="Strutvane UI: Metadata-driven React UI for Strutvane or any OpenAPI backend"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane-ui"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-vm.github.io/strutvane-docs/packages/ui/"><img src="https://img.shields.io/badge/Docs-D97706?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs"></a> <a href="https://www.npmjs.com/package/@strutvane/ui"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-ui"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -342,7 +342,7 @@ Take a photo of a meal and get its nutrition — with values grounded in real fo
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-cli"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-cli-dark.svg"><img src="assets/cards/strutvane-cli-light.svg" width="100%" alt="Strutvane CLI &amp; starter: npm create strutvane@latest, the sv CLI and the devkit SDK"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-cli#gh-dark-mode-only"><img src="assets/cards/strutvane-cli-dark.svg" width="100%" alt="Strutvane CLI &amp; starter: npm create strutvane@latest, the sv CLI and the devkit SDK"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-cli#gh-light-mode-only"><img src="assets/cards/strutvane-cli-light.svg" width="100%" alt="Strutvane CLI &amp; starter: npm create strutvane@latest, the sv CLI and the devkit SDK"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane-cli"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-vm.github.io/strutvane-docs/reference/cli/"><img src="https://img.shields.io/badge/Docs-D97706?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs"></a> <a href="https://www.npmjs.com/package/strutvane"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-cli"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -358,7 +358,7 @@ The developer-experience layer of Strutvane, across three repositories: create-s
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-contracts"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-contracts-dark.svg"><img src="assets/cards/strutvane-contracts-light.svg" width="100%" alt="Strutvane Core &amp; Contracts: The kernel, and the shared types every package speaks"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-contracts#gh-dark-mode-only"><img src="assets/cards/strutvane-contracts-dark.svg" width="100%" alt="Strutvane Core &amp; Contracts: The kernel, and the shared types every package speaks"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-contracts#gh-light-mode-only"><img src="assets/cards/strutvane-contracts-light.svg" width="100%" alt="Strutvane Core &amp; Contracts: The kernel, and the shared types every package speaks"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane-contracts"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-vm.github.io/strutvane-docs/packages/contracts/"><img src="https://img.shields.io/badge/Docs-D97706?style=flat-square&logo=readthedocs&logoColor=white" alt="Docs"></a> <a href="https://www.npmjs.com/package/@strutvane/contracts"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-contracts"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -372,7 +372,7 @@ The foundation of Strutvane. @strutvane/contracts holds the shared types and wir
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-logs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-logs-dark.svg"><img src="assets/cards/strutvane-logs-light.svg" width="100%" alt="Strutvane Logs: Zero-config logging with a built-in log viewer"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-logs#gh-dark-mode-only"><img src="assets/cards/strutvane-logs-dark.svg" width="100%" alt="Strutvane Logs: Zero-config logging with a built-in log viewer"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-logs#gh-light-mode-only"><img src="assets/cards/strutvane-logs-light.svg" width="100%" alt="Strutvane Logs: Zero-config logging with a built-in log viewer"></a>
 <p><a href="https://github.com/vishwajit-vm/strutvane-logs"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://www.npmjs.com/package/@strutvane/logs"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-logs"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -388,7 +388,7 @@ The foundation of Strutvane. @strutvane/contracts holds the shared types and wir
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-docs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/strutvane-docs-dark.svg"><img src="assets/cards/strutvane-docs-light.svg" width="100%" alt="Strutvane Docs &amp; Tooling: The live docs site and the CI that keeps 12 repos in sync"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-docs#gh-dark-mode-only"><img src="assets/cards/strutvane-docs-dark.svg" width="100%" alt="Strutvane Docs &amp; Tooling: The live docs site and the CI that keeps 12 repos in sync"></a><a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-docs#gh-light-mode-only"><img src="assets/cards/strutvane-docs-light.svg" width="100%" alt="Strutvane Docs &amp; Tooling: The live docs site and the CI that keeps 12 repos in sync"></a>
 <p><a href="https://vishwajit-vm.github.io/strutvane-docs/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://github.com/vishwajit-vm/strutvane-docs"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/strutvane-docs"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -412,7 +412,7 @@ Two repositories that are already shipped: strutvane-docs, the friendly, example
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/smart-hr-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/smart-hr-bot-dark.svg"><img src="assets/cards/smart-hr-bot-light.svg" width="100%" alt="SmartHR: AI interview platform"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/smart-hr-bot#gh-dark-mode-only"><img src="assets/cards/smart-hr-bot-dark.svg" width="100%" alt="SmartHR: AI interview platform"></a><a href="https://vishwajit-labs-web.vercel.app/projects/smart-hr-bot#gh-light-mode-only"><img src="assets/cards/smart-hr-bot-light.svg" width="100%" alt="SmartHR: AI interview platform"></a>
 <p><a href="https://vishwajit-labs-web.vercel.app/projects/smart-hr-bot"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -428,7 +428,7 @@ An AI system that conducts and scores first-round candidate interviews automatic
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/bella-canvas"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/bella-canvas-dark.svg"><img src="assets/cards/bella-canvas-light.svg" width="100%" alt="Bella Canvas: 3D product customisation &amp; e-commerce"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/bella-canvas#gh-dark-mode-only"><img src="assets/cards/bella-canvas-dark.svg" width="100%" alt="Bella Canvas: 3D product customisation &amp; e-commerce"></a><a href="https://vishwajit-labs-web.vercel.app/projects/bella-canvas#gh-light-mode-only"><img src="assets/cards/bella-canvas-light.svg" width="100%" alt="Bella Canvas: 3D product customisation &amp; e-commerce"></a>
 <p><a href="https://www.bellacanvas.com/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/bella-canvas"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -444,7 +444,7 @@ A 3D configurator that lets sportswear brands and customers design and personali
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/havu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/havu-dark.svg"><img src="assets/cards/havu-light.svg" width="100%" alt="Havu: Events-based dating platform"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/havu#gh-dark-mode-only"><img src="assets/cards/havu-dark.svg" width="100%" alt="Havu: Events-based dating platform"></a><a href="https://vishwajit-labs-web.vercel.app/projects/havu#gh-light-mode-only"><img src="assets/cards/havu-light.svg" width="100%" alt="Havu: Events-based dating platform"></a>
 <p><a href="https://havusocial.com/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/havu"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -458,7 +458,7 @@ Havu is an events-based dating platform. I built the admin portal that runs its 
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/mahaeseva"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/mahaeseva-dark.svg"><img src="assets/cards/mahaeseva-light.svg" width="100%" alt="MahaEseva.com: Online rent agreements for India"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/mahaeseva#gh-dark-mode-only"><img src="assets/cards/mahaeseva-dark.svg" width="100%" alt="MahaEseva.com: Online rent agreements for India"></a><a href="https://vishwajit-labs-web.vercel.app/projects/mahaeseva#gh-light-mode-only"><img src="assets/cards/mahaeseva-light.svg" width="100%" alt="MahaEseva.com: Online rent agreements for India"></a>
 <p><a href="https://vishwajit-labs-web.vercel.app/projects/mahaeseva"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -476,7 +476,7 @@ MahaEseva.com lets people across India create and e-sign government-compliant re
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/setbot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/setbot-dark.svg"><img src="assets/cards/setbot-light.svg" width="100%" alt="SetBot: Property &amp; venue booking platform"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/setbot#gh-dark-mode-only"><img src="assets/cards/setbot-dark.svg" width="100%" alt="SetBot: Property &amp; venue booking platform"></a><a href="https://vishwajit-labs-web.vercel.app/projects/setbot#gh-light-mode-only"><img src="assets/cards/setbot-light.svg" width="100%" alt="SetBot: Property &amp; venue booking platform"></a>
 <p><a href="https://vishwajit-labs-web.vercel.app/projects/setbot"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -492,7 +492,7 @@ A booking platform for studios, hostels, restaurants and shops, with a booking e
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/vaahcms"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/vaahcms-dark.svg"><img src="assets/cards/vaahcms-light.svg" width="100%" alt="VaahCMS: Open-source Laravel CMS"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/vaahcms#gh-dark-mode-only"><img src="assets/cards/vaahcms-dark.svg" width="100%" alt="VaahCMS: Open-source Laravel CMS"></a><a href="https://vishwajit-labs-web.vercel.app/projects/vaahcms#gh-light-mode-only"><img src="assets/cards/vaahcms-light.svg" width="100%" alt="VaahCMS: Open-source Laravel CMS"></a>
 <p><a href="https://vaah.dev/cms"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/vaahcms"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -507,7 +507,7 @@ VaahCMS is an open-source content management system built on Laravel and Vue.js.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/unicorn-equipments"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/unicorn-equipments-dark.svg"><img src="assets/cards/unicorn-equipments-light.svg" width="100%" alt="Unicorn Equipments: Equipment tracking dashboard"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/unicorn-equipments#gh-dark-mode-only"><img src="assets/cards/unicorn-equipments-dark.svg" width="100%" alt="Unicorn Equipments: Equipment tracking dashboard"></a><a href="https://vishwajit-labs-web.vercel.app/projects/unicorn-equipments#gh-light-mode-only"><img src="assets/cards/unicorn-equipments-light.svg" width="100%" alt="Unicorn Equipments: Equipment tracking dashboard"></a>
 <p><a href="https://unicornequipments.com/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/unicorn-equipments"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -530,7 +530,7 @@ An equipment management system for a machinery business: list equipment and trac
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/concretewale"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/concretewale-dark.svg"><img src="assets/cards/concretewale-light.svg" width="100%" alt="Concretewale: E-commerce &amp; content platform for concrete construction"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/concretewale#gh-dark-mode-only"><img src="assets/cards/concretewale-dark.svg" width="100%" alt="Concretewale: E-commerce &amp; content platform for concrete construction"></a><a href="https://vishwajit-labs-web.vercel.app/projects/concretewale#gh-light-mode-only"><img src="assets/cards/concretewale-light.svg" width="100%" alt="Concretewale: E-commerce &amp; content platform for concrete construction"></a>
 <p><a href="https://www.concretewale.com/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://github.com/vishwajitvm/concreatwala"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/concretewale"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -544,7 +544,7 @@ Concretewale sells and services equipment for concrete construction — from man
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/telas-santo-antonio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/telas-santo-antonio-dark.svg"><img src="assets/cards/telas-santo-antonio-light.svg" width="100%" alt="Telas Santo Antônio: Fabric company website &amp; catalogue on October CMS"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/telas-santo-antonio#gh-dark-mode-only"><img src="assets/cards/telas-santo-antonio-dark.svg" width="100%" alt="Telas Santo Antônio: Fabric company website &amp; catalogue on October CMS"></a><a href="https://vishwajit-labs-web.vercel.app/projects/telas-santo-antonio#gh-light-mode-only"><img src="assets/cards/telas-santo-antonio-light.svg" width="100%" alt="Telas Santo Antônio: Fabric company website &amp; catalogue on October CMS"></a>
 <p><a href="https://www.telassantoantonio.com.br/"><img src="https://img.shields.io/badge/Live-16A34A?style=flat-square&logo=googlechrome&logoColor=white" alt="Live"></a> <a href="https://github.com/vishwajitvm/Daniela"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/telas-santo-antonio"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -560,7 +560,7 @@ A company website and product catalogue for Telas Santo Antônio, a fabric busin
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/gyanastu"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/gyanastu-dark.svg"><img src="assets/cards/gyanastu-light.svg" width="100%" alt="Gyanastu: Learning management system"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/gyanastu#gh-dark-mode-only"><img src="assets/cards/gyanastu-dark.svg" width="100%" alt="Gyanastu: Learning management system"></a><a href="https://vishwajit-labs-web.vercel.app/projects/gyanastu#gh-light-mode-only"><img src="assets/cards/gyanastu-light.svg" width="100%" alt="Gyanastu: Learning management system"></a>
 <p><a href="https://github.com/vishwajitvm/gyanastu_laravel"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/gyanastu"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -574,7 +574,7 @@ A learning management system for an education provider: courses organised by boa
 </details>
 </td>
 <td width="50%" valign="top">
-<a href="https://vishwajit-labs-web.vercel.app/projects/aragma"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/aragma-dark.svg"><img src="assets/cards/aragma-light.svg" width="100%" alt="Aragma: House-party &amp; event management system"></picture></a>
+<a href="https://vishwajit-labs-web.vercel.app/projects/aragma#gh-dark-mode-only"><img src="assets/cards/aragma-dark.svg" width="100%" alt="Aragma: House-party &amp; event management system"></a><a href="https://vishwajit-labs-web.vercel.app/projects/aragma#gh-light-mode-only"><img src="assets/cards/aragma-light.svg" width="100%" alt="Aragma: House-party &amp; event management system"></a>
 <p><a href="https://github.com/vishwajitvm/aragma"><img src="https://img.shields.io/badge/Code-24292F?style=flat-square&logo=github&logoColor=white" alt="Code"></a> <a href="https://vishwajit-labs-web.vercel.app/projects/aragma"><img src="https://img.shields.io/badge/Case%20study-FF5B1F?style=flat-square&logo=readdotcv&logoColor=white" alt="Case study"></a></p>
 <details><summary><b>Read more</b></summary>
 <br>
@@ -599,44 +599,44 @@ A party and event management system: hosts create parties, guests request to joi
 #### ⚙️ Backend
 
 <table>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/python" width="38" height="38" alt="Python"><br><sub><b>Python</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/fastapi" width="38" height="38" alt="FastAPI"><br><sub><b>FastAPI</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/nodedotjs" width="38" height="38" alt="Node.js"><br><sub><b>Node.js</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/typescript" width="38" height="38" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/nestjs" width="38" height="38" alt="NestJS"><br><sub><b>NestJS</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF"><img src="https://cdn.simpleicons.org/express/000000" width="38" height="38" alt="Express"></picture><br><sub><b>Express</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/laravel" width="38" height="38" alt="Laravel"><br><sub><b>Laravel</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/php" width="38" height="38" alt="PHP"><br><sub><b>PHP</b></sub></td></tr>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/graphql" width="38" height="38" alt="GraphQL"><br><sub><b>GraphQL</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/celery" width="38" height="38" alt="Celery"><br><sub><b>Celery</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/FFFFFF"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="38" height="38" alt="Socket.IO"></picture><br><sub><b>Socket.IO</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/python" width="38" height="38" alt="Python"><br><sub><b>Python</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/fastapi" width="38" height="38" alt="FastAPI"><br><sub><b>FastAPI</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/nodedotjs" width="38" height="38" alt="Node.js"><br><sub><b>Node.js</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/typescript" width="38" height="38" alt="TypeScript"><br><sub><b>TypeScript</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/nestjs" width="38" height="38" alt="NestJS"><br><sub><b>NestJS</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Express#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/express/FFFFFF" width="38" height="38" alt="Express"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Express#gh-light-mode-only"><img src="https://cdn.simpleicons.org/express/000000" width="38" height="38" alt="Express"></a><br><sub><b>Express</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/laravel" width="38" height="38" alt="Laravel"><br><sub><b>Laravel</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/php" width="38" height="38" alt="PHP"><br><sub><b>PHP</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/graphql" width="38" height="38" alt="GraphQL"><br><sub><b>GraphQL</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/celery" width="38" height="38" alt="Celery"><br><sub><b>Celery</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Socket.IO#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="38" height="38" alt="Socket.IO"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Socket.IO#gh-light-mode-only"><img src="https://cdn.simpleicons.org/socketdotio/010101" width="38" height="38" alt="Socket.IO"></a><br><sub><b>Socket.IO</b></sub></td></tr>
 </table>
 
 #### 🧠 AI & LLMs
 
 <table>
-<tr><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langchain/FFFFFF"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="38" height="38" alt="LangChain"></picture><br><sub><b>LangChain</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/langgraph/FFFFFF"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="38" height="38" alt="LangGraph"></picture><br><sub><b>LangGraph</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" width="38" height="38" alt="MCP"></picture><br><sub><b>MCP</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini" width="38" height="38" alt="Gemini"><br><sub><b>Gemini</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/FFFFFF"><img src="https://cdn.simpleicons.org/ollama/000000" width="38" height="38" alt="Ollama"></picture><br><sub><b>Ollama</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" width="38" height="38" alt="Hugging Face"><br><sub><b>Hugging Face</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/qdrant" width="38" height="38" alt="Qdrant"><br><sub><b>Qdrant</b></sub></td></tr>
+<tr><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=LangChain#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/langchain/FFFFFF" width="38" height="38" alt="LangChain"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=LangChain#gh-light-mode-only"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="38" height="38" alt="LangChain"></a><br><sub><b>LangChain</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=LangGraph#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/langgraph/FFFFFF" width="38" height="38" alt="LangGraph"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=LangGraph#gh-light-mode-only"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="38" height="38" alt="LangGraph"></a><br><sub><b>LangGraph</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=MCP#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF" width="38" height="38" alt="MCP"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=MCP#gh-light-mode-only"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" width="38" height="38" alt="MCP"></a><br><sub><b>MCP</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini" width="38" height="38" alt="Gemini"><br><sub><b>Gemini</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Ollama#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="38" height="38" alt="Ollama"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Ollama#gh-light-mode-only"><img src="https://cdn.simpleicons.org/ollama/000000" width="38" height="38" alt="Ollama"></a><br><sub><b>Ollama</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" width="38" height="38" alt="Hugging Face"><br><sub><b>Hugging Face</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/qdrant" width="38" height="38" alt="Qdrant"><br><sub><b>Qdrant</b></sub></td></tr>
 </table>
 
 #### 🗄️ Data
 
 <table>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/postgresql" width="38" height="38" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/mongodb" width="38" height="38" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/mysql" width="38" height="38" alt="MySQL"><br><sub><b>MySQL</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/redis" width="38" height="38" alt="Redis"><br><sub><b>Redis</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/FFFFFF"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="38" height="38" alt="Prisma"></picture><br><sub><b>Prisma</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/minio" width="38" height="38" alt="MinIO"><br><sub><b>MinIO</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/postgresql" width="38" height="38" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/mongodb" width="38" height="38" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/mysql" width="38" height="38" alt="MySQL"><br><sub><b>MySQL</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/redis" width="38" height="38" alt="Redis"><br><sub><b>Redis</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Prisma#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/prisma/FFFFFF" width="38" height="38" alt="Prisma"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Prisma#gh-light-mode-only"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="38" height="38" alt="Prisma"></a><br><sub><b>Prisma</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/minio" width="38" height="38" alt="MinIO"><br><sub><b>MinIO</b></sub></td></tr>
 </table>
 
 #### 🎨 Frontend
 
 <table>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/react" width="38" height="38" alt="React"><br><sub><b>React</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="38" height="38" alt="Next.js"></picture><br><sub><b>Next.js</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/angular" width="38" height="38" alt="Angular"><br><sub><b>Angular</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/vuedotjs" width="38" height="38" alt="Vue"><br><sub><b>Vue</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/tailwindcss" width="38" height="38" alt="Tailwind"><br><sub><b>Tailwind</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/electron" width="38" height="38" alt="Electron"><br><sub><b>Electron</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/react" width="38" height="38" alt="React"><br><sub><b>React</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Next.js#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="38" height="38" alt="Next.js"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Next.js#gh-light-mode-only"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="38" height="38" alt="Next.js"></a><br><sub><b>Next.js</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/angular" width="38" height="38" alt="Angular"><br><sub><b>Angular</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/vuedotjs" width="38" height="38" alt="Vue"><br><sub><b>Vue</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/tailwindcss" width="38" height="38" alt="Tailwind"><br><sub><b>Tailwind</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/electron" width="38" height="38" alt="Electron"><br><sub><b>Electron</b></sub></td></tr>
 </table>
 
 #### ☁️ Cloud & DevOps
 
 <table>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/docker" width="38" height="38" alt="Docker"><br><sub><b>Docker</b></sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="AWS"><br><sub><b>AWS</b></sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" width="38" height="38" alt="Azure"><br><sub><b>Azure</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions" width="38" height="38" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/gitlab" width="38" height="38" alt="GitLab CI"><br><sub><b>GitLab CI</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/nginx" width="38" height="38" alt="Nginx"><br><sub><b>Nginx</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/traefikproxy" width="38" height="38" alt="Traefik"><br><sub><b>Traefik</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/FFFFFF"><img src="https://cdn.simpleicons.org/linux/000000" width="38" height="38" alt="Linux"></picture><br><sub><b>Linux</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/docker" width="38" height="38" alt="Docker"><br><sub><b>Docker</b></sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="38" height="38" alt="AWS"><br><sub><b>AWS</b></sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" width="38" height="38" alt="Azure"><br><sub><b>Azure</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions" width="38" height="38" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/gitlab" width="38" height="38" alt="GitLab CI"><br><sub><b>GitLab CI</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/nginx" width="38" height="38" alt="Nginx"><br><sub><b>Nginx</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/traefikproxy" width="38" height="38" alt="Traefik"><br><sub><b>Traefik</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Linux#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/linux/FFFFFF" width="38" height="38" alt="Linux"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Linux#gh-light-mode-only"><img src="https://cdn.simpleicons.org/linux/000000" width="38" height="38" alt="Linux"></a><br><sub><b>Linux</b></sub></td></tr>
 </table>
 
 #### 🔐 Security & observability
 
 <table>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/openid" width="38" height="38" alt="OpenID"><br><sub><b>OpenID</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/keycloak" width="38" height="38" alt="Keycloak"><br><sub><b>Keycloak</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="38" height="38" alt="JWT"></picture><br><sub><b>JWT</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/prometheus" width="38" height="38" alt="Prometheus"><br><sub><b>Prometheus</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/grafana" width="38" height="38" alt="Grafana"><br><sub><b>Grafana</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opentelemetry/FFFFFF"><img src="https://cdn.simpleicons.org/opentelemetry/000000" width="38" height="38" alt="OpenTelemetry"></picture><br><sub><b>OpenTelemetry</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/openid" width="38" height="38" alt="OpenID"><br><sub><b>OpenID</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/keycloak" width="38" height="38" alt="Keycloak"><br><sub><b>Keycloak</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=JWT#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/jsonwebtokens/FFFFFF" width="38" height="38" alt="JWT"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=JWT#gh-light-mode-only"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="38" height="38" alt="JWT"></a><br><sub><b>JWT</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/prometheus" width="38" height="38" alt="Prometheus"><br><sub><b>Prometheus</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/grafana" width="38" height="38" alt="Grafana"><br><sub><b>Grafana</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=OpenTelemetry#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/opentelemetry/FFFFFF" width="38" height="38" alt="OpenTelemetry"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=OpenTelemetry#gh-light-mode-only"><img src="https://cdn.simpleicons.org/opentelemetry/000000" width="38" height="38" alt="OpenTelemetry"></a><br><sub><b>OpenTelemetry</b></sub></td></tr>
 </table>
 
 #### 🧪 Testing & tools
 
 <table>
-<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/pytest" width="38" height="38" alt="pytest"><br><sub><b>pytest</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/jest" width="38" height="38" alt="Jest"><br><sub><b>Jest</b></sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright"><br><sub><b>Playwright</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/git" width="38" height="38" alt="Git"><br><sub><b>Git</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/postman" width="38" height="38" alt="Postman"><br><sub><b>Postman</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/vite" width="38" height="38" alt="Vite"><br><sub><b>Vite</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/FFFFFF"><img src="https://cdn.simpleicons.org/vercel/000000" width="38" height="38" alt="Vercel"></picture><br><sub><b>Vercel</b></sub></td><td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/render/FFFFFF"><img src="https://cdn.simpleicons.org/render/000000" width="38" height="38" alt="Render"></picture><br><sub><b>Render</b></sub></td></tr>
+<tr><td align="center" width="96"><img src="https://cdn.simpleicons.org/pytest" width="38" height="38" alt="pytest"><br><sub><b>pytest</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/jest" width="38" height="38" alt="Jest"><br><sub><b>Jest</b></sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright"><br><sub><b>Playwright</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/git" width="38" height="38" alt="Git"><br><sub><b>Git</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/postman" width="38" height="38" alt="Postman"><br><sub><b>Postman</b></sub></td><td align="center" width="96"><img src="https://cdn.simpleicons.org/vite" width="38" height="38" alt="Vite"><br><sub><b>Vite</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Vercel#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="38" height="38" alt="Vercel"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Vercel#gh-light-mode-only"><img src="https://cdn.simpleicons.org/vercel/000000" width="38" height="38" alt="Vercel"></a><br><sub><b>Vercel</b></sub></td><td align="center" width="96"><a href="https://vishwajit-labs-web.vercel.app/?skill=Render#gh-dark-mode-only"><img src="https://cdn.simpleicons.org/render/FFFFFF" width="38" height="38" alt="Render"></a><a href="https://vishwajit-labs-web.vercel.app/?skill=Render#gh-light-mode-only"><img src="https://cdn.simpleicons.org/render/000000" width="38" height="38" alt="Render"></a><br><sub><b>Render</b></sub></td></tr>
 </table>
 
 <br>
