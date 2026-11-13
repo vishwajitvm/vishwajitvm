@@ -28,7 +28,7 @@
 
 ## 👋 About me
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/glance-dark.svg"><img src="assets/glance-light.svg" width="100%" alt="5+ years shipping to production · 31 projects · 244 API endpoints live at SPNX · 3/3 security audits passed"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/glance-dark.svg"><img src="assets/glance-light.svg" width="100%" alt="5+ years shipping to production · 31 projects · own products · open to work"></picture></p>
 
 ### I build the backends that products quietly depend on.
 
@@ -39,7 +39,7 @@ Hi, I’m **Vishwajit** — a backend &amp; AI engineer from New Delhi. For **5+
 <td width="50%" valign="top">
 
 #### 🔭 Right now
-Sole backend developer at **SPNX**, running an [EU VAT-registration platform](https://fsvat.spnx.ai/) in production: **244 endpoints · 63 data models · 15 scheduled jobs · 3/3 security audits passed.**
+Backend developer at **SPNX**, building an [EU VAT-registration platform](https://fsvat.spnx.ai/) that runs in production — workflows, documents, e-signatures and secure sign-in for businesses across the EU.
 
 </td>
 <td width="50%" valign="top">
@@ -100,9 +100,9 @@ DevFlow-AI is a self-hosted platform that reviews pull requests with AI, propose
 
 A staff workspace and client portal that runs EU VAT registrations for overseas businesses — onboarding, documents, e-signatures and country-specific filing steps. I am the sole backend developer.
 
-- 244 REST endpoints across 34 NestJS modules and 63 database models (PostgreSQL 17 + Prisma 7).
 - A data-driven workflow engine that runs each country’s registration process as versioned data — the same rules decide which actions each user can take.
 - Microsoft Entra ID (OIDC) sign-in, Postgres-backed sessions with CSRF protection, and role-based access with 4 roles and 21 permissions.
+- Azure Blob Storage, Azure Key Vault (AES-256-GCM for stored credentials), ClamAV / Defender virus scanning, Microsoft Graph email and Adobe Acrobat Sign — each behind a clean adapter.
 
 </details>
 </td>
@@ -650,9 +650,7 @@ A party and event management system: hosts create parties, guests request to joi
 <br>
 
 - Sole backend developer on an EU VAT-registration platform (live at fsvat.spnx.ai)
-- 244 endpoints across 34 NestJS modules and 63 models
 - A workflow engine where each country’s process is versioned data, not code
-- Entra ID sign-in, RBAC with 4 roles & 21 permissions, 3/3 security audits passed
 
 </details>
 
