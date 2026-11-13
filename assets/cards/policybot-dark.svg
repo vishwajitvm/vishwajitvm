@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="PolicyBot: RAG Q&amp;A over internal documents">
+<style>
+.in{animation:in .7s cubic-bezier(.2,.7,.2,1) both}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.pulse{transform-origin:31px 74px;animation:pulse 1.8s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(3);opacity:0}}
+</style>
+<defs>
+<radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#9FE8C8" stop-opacity="0.22"/><stop offset="1" stop-color="#9FE8C8" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect width="440" height="236" rx="18"/></clipPath>
+</defs>
+<g class="in">
+<g clip-path="url(#c)">
+<rect width="440" height="236" fill="#161B22"/>
+<rect width="440" height="236" fill="url(#g)"/>
+<rect width="440" height="5" fill="#9FE8C8"/>
+</g>
+<rect x=".5" y=".5" width="439" height="235" rx="17.5" fill="none" stroke="#30363D"/>
+<text x="26" y="50" font-size="24" font-family="'Segoe UI Emoji','Apple Color Emoji','Noto Color Emoji',sans-serif">📚</text>
+<text x="64" y="49" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#E6EDF3">PolicyBot</text>
+<g transform="translate(323.25,31)"><rect width="90.75" height="22" rx="11" fill="#9FE8C8" fill-opacity=".18" stroke="#9FE8C8" stroke-opacity=".6"/><text x="45.375" y="15" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.1" fill="#E6EDF3">MY PRODUCT</text></g>
+<circle cx="31" cy="74" r="5" fill="#3B82F6"/>
+<text x="43" y="78" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#9DA7B3">Open source</text>
+<text x="26" y="110" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E6EDF3">RAG Q&amp;A over internal documents</text>
+<g transform="translate(0,130)"><rect x="26" y="0" width="105.23" height="24" rx="7" fill="#21262D" stroke="#30363D"/><text x="35" y="16" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#C9D1D9">hybrid search</text><rect x="138.23000000000002" y="0" width="78.39" height="24" rx="7" fill="#21262D" stroke="#30363D"/><text x="147.23000000000002" y="16" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#C9D1D9">citations</text><rect x="223.62" y="0" width="132.07" height="24" rx="7" fill="#21262D" stroke="#30363D"/><text x="232.62" y="16" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#C9D1D9">confidence scores</text></g>
+<line x1="26" y1="192" x2="414" y2="192" stroke="#30363D"/>
+<text x="26" y="217" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#6E7681">Python  ·  FastAPI  ·  MongoDB  ·  Qdrant  ·  RAG  ·  LangGraph</text>
+</g>
+</svg>
