@@ -10,6 +10,10 @@
   <a href="mailto:vishwajitmall50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="26"></a>
   <a href="https://www.twitter.com/VishwajitVm"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="26"></a>
   <a href="https://hashnode.com/@Vishwajitvm"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="26"></a>
+  <a href="https://www.instagram.com/codeclickcraftsman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="26"></a>
+  <a href="https://www.reddit.com/user/vishwajitvm"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="26"></a>
+  <a href="https://orcid.org/0009-0000-2624-5995"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="26"></a>
+  <a href="https://gravatar.com/vishwajitmall50"><img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" height="26"></a>
   <a href="https://github.com/vishwajit-vm"><img src="https://img.shields.io/badge/Open--source%20org-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Open-source org" height="26"></a>
   <a href="https://www.npmjs.com/~vishwajitjitvm"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="26"></a>
   <a href="https://pypi.org/user/vishwajitvm/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" height="26"></a>
@@ -512,6 +516,10 @@ Got a backend that needs to stay up, an AI feature to ship, or a platform to bui
   <a href="mailto:vishwajitmall50@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="26"></a>
   <a href="https://www.twitter.com/VishwajitVm"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="26"></a>
   <a href="https://hashnode.com/@Vishwajitvm"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="26"></a>
+  <a href="https://www.instagram.com/codeclickcraftsman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="26"></a>
+  <a href="https://www.reddit.com/user/vishwajitvm"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="26"></a>
+  <a href="https://orcid.org/0009-0000-2624-5995"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" height="26"></a>
+  <a href="https://gravatar.com/vishwajitmall50"><img src="https://img.shields.io/badge/Gravatar-1E8CBE?style=for-the-badge&logo=gravatar&logoColor=white" alt="Gravatar" height="26"></a>
   <a href="https://github.com/vishwajit-vm"><img src="https://img.shields.io/badge/Open--source%20org-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Open-source org" height="26"></a>
   <a href="https://www.npmjs.com/~vishwajitjitvm"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="26"></a>
   <a href="https://pypi.org/user/vishwajitvm/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" height="26"></a>
